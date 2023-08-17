@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Data 100
+title: Data 101
 description: Principles and Techniques of Data Science
-author: Dominic Liu, Mihran Miroyan
-baseurl: '/su23' # the subpath of your site, e.g. /blog
-url: 'https://ds100.org' # the base hostname & protocol for your site, e.g. http://example.com
-logo: 'resources/assets/favicon/panda-logo.png'
+author: Lisa Yan
+baseurl: '/' # the subpath of your site, e.g. /blog
+url: 'https://fa23.data101.org' # the base hostname & protocol for your site, e.g. http://example.com
+# logo: 'resources/assets/favicon/panda-logo.png'
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.5.2
@@ -26,14 +26,29 @@ color_scheme: light
 search_enabled: true
 permalink: pretty
 
+course:
+    faq: https://data101.org/fa23faq
+    datahub: http://data101.datahub.berkeley.edu/
+    edstem: https://edstem.org/us/courses/43068/discussion/
+    faq: https://data101.org/fa23faq
+    gradescope: https://www.gradescope.com/courses/576229
+    extenuating_circumstance: form_TBD
+    semester: Fall 2023
+    faq: https://data101.org/fa23faq
+    bcourses: ""
+    instructors: Lisa Yan
+    head_ta_1: 
+    head_1_email: 
+    head_ta_2: 
+    head_2_email: 
+    comms_ta: staff email
+    comms_email: data101@berkeley.edu
+    email: data101@berkeley.edu
 
 # External navigation links
 nav_external_links:
   - title: Course FAQ
-    url: https://ds100.org/su23faq
-    hide_icon: true
-  - title: Course Notes
-    url: https://ds100.org/course-notes-su23/
+    url: https://data101.org/fa23faq
     hide_icon: true
 
 footer: >-

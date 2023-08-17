@@ -3,23 +3,20 @@ layout: page
 title: Home / Schedule
 nav_order: 1
 description: A week-to-week description of the content covered in the course.
-course:
-  edstem: https://edstem.org/us/courses/33744/
-  faq: https://ds100.org/sp23faq
-currWeekNumber: 8
+currWeekNumber: 1
 ---
 
-# Data 100: Principles and Techniques of Data Science
+# {{site.title}}: {{site.description}}
 
 {: .mb-2 }
-UC Berkeley, Summer 2023
+UC Berkeley, {{site.semester}}
 {: .mb-0 .fs-6 .text-grey-dk-000 }
 
 
-[Ed](https://edstem.org/us/courses/40266){:target="_blank" .btn .btn-ed .mr-1 }
-[Datahub](http://data100.datahub.berkeley.edu/){:target="_blank" .btn .btn-datahub .mr-1 }
-[Gradescope](https://www.gradescope.com/courses/546710){:target="_blank" .btn .btn-gradescope .mr-1 }
-[Extenuating Circumstances](https://forms.gle/GRREdhkik6bKm9bJA){:target="_blank .btn .btn-blue .mr-1}
+[Ed]({{site.course.edstem}}){:target="_blank" .btn .btn-ed .mr-1 }
+[Datahub]({{site.course.datahub}}){:target="_blank" .btn .btn-datahub .mr-1 }
+[Gradescope]({{site.course.gradescope}}){:target="_blank" .btn .btn-gradescope .mr-1 }
+[Extenuating Circumstances (TBD)]({{site.course.extenuating_circumstances}}){:target="_blank .btn .btn-blue .mr-1}
 
 <div>
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
@@ -31,7 +28,12 @@ UC Berkeley, Summer 2023
 </div>
 
 {: .highlight }
-> Welcome to [Week 8](#week-{{page.currWeekNumber}})!
+> Welcome to Fall 2023! Course website under construction.
+
+
+<!--
+Welcome to [Week 1](#week-{{page.currWeekNumber}})
+!-->
 
 
 <a name="schedule"></a>
