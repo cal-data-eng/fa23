@@ -1,6 +1,6 @@
 ---
 name: Mackenzie Moffit
-role: Teaching Assistant
+role: Reader
 email: mackenzie.moffit@berkeley.edu
 website:
 photo: /resources/assets/staff_pics/Mackenzie_Moffit.png

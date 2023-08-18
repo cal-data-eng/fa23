@@ -1,6 +1,6 @@
 ---
 name: Cassandra Calciano
-role: Teaching Assistant
+role: Reader
 email: cassiecalciano@berkeley.edu
 website:
 photo: /resources/assets/staff_pics/Cassandra_Calciano.png
