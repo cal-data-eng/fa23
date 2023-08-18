@@ -12,6 +12,8 @@ currWeekNumber: 1
 UC Berkeley, {{site.semester}}
 {: .mb-0 .fs-6 .text-grey-dk-000 }
 
+# TEST REMOVE THIS AT SOME POINT
+
 
 [Ed]({{site.course.edstem}}){:target="_blank" .btn .btn-ed .mr-1 }
 [Datahub]({{site.course.datahub}}){:target="_blank" .btn .btn-datahub .mr-1 }
