@@ -1,6 +1,7 @@
 """Generate the weekly calendar for the course website."""
 from datetime import datetime
 import os
+import re
 from typing import Iterable, Optional
 
 import pandas as pd
@@ -23,7 +24,6 @@ CALENDAR_NUM_ROWS = 117
 WEEK = 1
 DATE = 2
 LECTURE = 7
-EVENT = 8
 DISCUSSION = 9
 PROJECT_RELEASE = 10
 MULTIVITAMIN_RELEASE = 12
@@ -39,64 +39,52 @@ class EmptyEvent:
 
 
 class BaseEvent:
+    next_number = 1
+
     def __init__(self, title: str):
+        # Remove the leading number and colon if present.
+        title = re.sub(r"^\w*\d+:\s+", "", title)
         self.title = title
+        self.number = self.__class__.next_number
+        self.__class__.next_number += 1
 
     @classmethod
     def new(cls, title: str) -> Optional["BaseEvent"]:
         if pd.isna(title):
             return EmptyEvent()
+        title_lower = title.lower()
+        if "no " in title_lower or "none" in title_lower:
+            return EmptyEvent()
         return cls(title)
 
 
 class Lecture(BaseEvent):
-    next_lecture_number = 1
-
-    def __init__(self, title: str):
-        super().__init__(title)
-
-        self.number = self.__class__.next_lecture_number
-        self.__class__.next_lecture_number += 1
-
     def render(self) -> str:
-        return (
-            f": **Lecture {self.number}**"
-            "{: .label .label-lecture }"
-            f"[{self.title}](lecture/lec{self.number:02d})"
-        )
-
-
-class Event(BaseEvent):
-    def render(self) -> str:
-        if "Survey" in self.title:
-            css_class = "label-survey"
-            event_type = "Survey"
-        else:
-            css_class = "label-vit"
-            event_type = "Event"
-        return f": **{event_type}**{{: .label .{css_class} }}[{self.title}]()"
+        return f": **Lecture {self.number}**{{: .label .label-lecture }}{self.title}"
 
 
 class Discussion(BaseEvent):
+    def __init__(self, title: str):
+        super().__init__(title)
+
     def render(self) -> str:
-        return f": **Discussion**{{: .label .label-disc }}[{self.title}]()"
+        return f": **Discussion {self.number}**{{: .label .label-disc }}{self.title}"
 
 
 class Project(BaseEvent):
     def render(self) -> str:
-        return f": **Project**{{: .label .label-proj }}[{self.title}]()"
+        return f": **Project**{{: .label .label-proj }}{self.title}"
 
 
 class MultiVitamin(BaseEvent):
     def render(self) -> str:
-        return f": **MultiVitamin**{{: .label .label-hw }}[{self.title}]()"
+        return f": **MultiVitamin**{{: .label .label-hw }}{self.title}"
 
 
 class DaySchedule:
     def __init__(self, row: tuple):
         self.date = parse_date(row[DATE])
         self.lecture = Lecture.new(row[LECTURE])
-        self.event = Event.new(row[EVENT])
         self.discussion = Discussion.new(row[DISCUSSION])
         self.project = Project.new(row[PROJECT_RELEASE])
         self.multivitamin = MultiVitamin.new(row[MULTIVITAMIN_RELEASE])
@@ -104,7 +92,6 @@ class DaySchedule:
     def is_empty(self) -> bool:
         return (
             isinstance(self.lecture, EmptyEvent)
-            and isinstance(self.event, EmptyEvent)
             and isinstance(self.discussion, EmptyEvent)
             and isinstance(self.project, EmptyEvent)
             and isinstance(self.multivitamin, EmptyEvent)
@@ -118,8 +105,6 @@ class DaySchedule:
     def render_impl(self) -> Iterable[str]:
         yield self.date.strftime("%a %-m/%-d")
         if (s := self.lecture.render()) is not None:
-            yield s
-        if (s := self.event.render()) is not None:
             yield s
         if (s := self.discussion.render()) is not None:
             yield s

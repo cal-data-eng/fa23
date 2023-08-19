@@ -5,21 +5,17 @@ date: 2023-09-11
 
 Mon 9/11
 
-: **Discussion**{: .label .label-disc }[01: Views]()
+: **Discussion 2**{: .label .label-disc }Views
 
 Tue 9/12
 
-: **Lecture 7**{: .label .label-lecture }[DML, DDL, Referential Integrity, Constraints](lecture/lec07)
-
-Wed 9/13
-
-: **Event**{: .label .label-vit }[Drop Deadline (w/ fee)]()
+: **Lecture 7**{: .label .label-lecture }DML, DDL, Referential Integrity, Constraints
 
 Thu 9/14
 
-: **Lecture 8**{: .label .label-lecture }[Foreign Keys, Index Selection](lecture/lec08)
+: **Lecture 8**{: .label .label-lecture }Foreign Keys, Index Selection
 
 Fri 9/15
 
-: **MultiVitamin**{: .label .label-hw }[Multivitamin 1 Release]()
+: **MultiVitamin**{: .label .label-hw }Multivitamin 1 Release
 

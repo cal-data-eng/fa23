@@ -5,17 +5,17 @@ date: 2023-10-16
 
 Mon 10/16
 
-: **Discussion**{: .label .label-disc }[06: Data Cleaning]()
+: **Discussion 7**{: .label .label-disc }Data Cleaning
 
 Tue 10/17
 
-: **Lecture 17**{: .label .label-lecture }[Normalization + ER](lecture/lec17)
+: **Lecture 17**{: .label .label-lecture }Normalization + ER
 
 Thu 10/19
 
-: **Lecture 18**{: .label .label-lecture }[Semistructured Data: NoSQL, JSON, XML](lecture/lec18)
+: **Lecture 18**{: .label .label-lecture }Semistructured Data: NoSQL, JSON, XML
 
 Fri 10/20
 
-: **MultiVitamin**{: .label .label-hw }[Multivitamin 4 Release]()
+: **MultiVitamin**{: .label .label-hw }Multivitamin 4 Release
 

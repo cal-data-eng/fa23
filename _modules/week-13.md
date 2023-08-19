@@ -5,13 +5,13 @@ date: 2023-11-13
 
 Mon 11/13
 
-: **Discussion**{: .label .label-disc }[10: Paralellization]()
+: **Discussion 11**{: .label .label-disc }Paralellization
 
 Tue 11/14
 
-: **Lecture 26**{: .label .label-lecture }[OLAP + Visualizations](lecture/lec26)
+: **Lecture 26**{: .label .label-lecture }OLAP + Visualizations
 
 Thu 11/16
 
-: **Lecture 27**{: .label .label-lecture }[Sampling, Data Vis](lecture/lec27)
+: **Lecture 27**{: .label .label-lecture }Sampling, Data Vis
 
