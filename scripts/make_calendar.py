@@ -43,7 +43,7 @@ class BaseEvent:
 
     def __init__(self, title: str):
         # Remove the leading number and colon if present.
-        title = re.sub(r"^\w*\d+:\s+", "", title)
+        title = re.sub(r"\w*\W*\d+:\s+", "", title)
         self.title = title
         self.number = self.__class__.next_number
         self.__class__.next_number += 1
@@ -73,12 +73,12 @@ class Discussion(BaseEvent):
 
 class Project(BaseEvent):
     def render(self) -> str:
-        return f": **Project**{{: .label .label-proj }}{self.title}"
+        return f": **Project {self.number}**{{: .label .label-proj }}{self.title}"
 
 
 class MultiVitamin(BaseEvent):
     def render(self) -> str:
-        return f": **MultiVitamin**{{: .label .label-hw }}{self.title}"
+        return f": **MultiVitamin {self.number}**{{: .label .label-hw }}{self.title}"
 
 
 class DaySchedule:
@@ -100,7 +100,8 @@ class DaySchedule:
     def render(self) -> str:
         for s in self.render_impl():
             print(s)
-        return "\n\n".join(self.render_impl()) + "\n"
+        # return "\n\n".join(self.render_impl()) + "\n"
+        return "\n".join(self.render_impl()) + "\n"
 
     def render_impl(self) -> Iterable[str]:
         yield self.date.strftime("%a %-m/%-d")
@@ -116,8 +117,11 @@ class DaySchedule:
 
 class WeekSchedule:
     def __init__(self, week: str | int):
-        if not isinstance(week, str):
-            week = f"{week:02d}"
+        try:
+            week = int(week)
+            week = f"{week:02}"
+        except:
+            pass
         self.week = week
         self.days = []
 

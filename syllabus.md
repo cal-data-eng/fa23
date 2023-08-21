@@ -10,8 +10,6 @@ markdown: kramdown
 # Syllabus
 {:.no_toc}
 
-**Note: This syllabus is subject to change! It has not been updated to reflect Fall 2023 policies.**
-
 Jump to:
 * TOC
 {:toc}
@@ -26,18 +24,19 @@ This course will cover the principles and practices of managing data at scale, w
 
 The class will balance foundational concerns with exposure to practical languages, tools, and real-world concerns. We will study the foundations of prevalent data models in use today, including relations, tensors, and dataframes, and mappings between them. We will study SQL as a means to query and manipulate data at scale, including analytical challenges like sampling, aggregation and windowing, and performance concerns like views and indexes, data models, query processing and optimization, and transactions, all from a user perspective. We will study the foundations and realities of data preparation, including hands-on work with real-world data using standard Python and SQL frameworks. We will explore data exploration modalities for non-programmers, including the fundamentals behind spreadsheet systems and interactive visual analytics packages. We will look at approaches for managing the lifecycle of data science, including the establishment, monitoring, and maintenance of data pipelines for both analytics and machine learning. Time permitting, we will look at the specifics of ML pipelines including data validation, training, prediction serving and feedback loops, as well as technologies for representing, moving, sharing, and caching data including event streaming systems, key-value/document stores, in-memory and on-disk representation formats, log analytics, and search engines.
 
-**Textbook**: There is no official textbook for Data 100 this semester; we will provide course notes that will be released with the respective lectures.
+**Textbook**: There is no official textbook for Data 101 this semester; we will provide course notes that will be released with the respective lectures.
 
-## Prerequisites
+### Prerequisites
 COMPSCI C100/DATA C100/STAT C100 or COMPSCI 189 or INFO 251 or DATA 144/INFO 254 or equivalent upper-division course in data science. COMPSCI 61B or INFO 206B or equivalent courses in programming. This class will not assume deep experience with databases or big data solutions.
 
-## Enrollment
-The class is currently full with a long waitlist. Sadly due to teaching budget cuts we won't be able to expand the class or take concurrent enrollment students this semester, and we will let the waitlist play out on its own.
+### Enrollment
+See our [FAQ page]({{site.course.faq}}).
 
-## Communications
-Please make sure you are enrolled on Ed and Gradescope. Ed is our primary method of communication and making announcements, and you are responsible for checking it frequently. We plan on using bCourses only for lecture webcasts. Gradescope is where all assignments are submitted. 
-
-The course staff email [{{site.course.email}}](mailto:{{site.course.email}}) is for private logistical student support and DSP accommodations and is monitored by both the instructor and a core set of staff to ensure fastest response. Please only contact the course instructor directly for matters that require strict privacy and their personal attention.
+### Communications
+* **Ed** is our primary method of communication and making announcements, and you are responsible for checking it frequently. We will also make assignment "megathreads" where you can public ask questions about the course assignments.
+* **bCourses** will only have lecture webcasts, if any.
+* **Gradescope** is where all assignments are submitted. 
+* **[{{site.course.email}}](mailto:{{site.course.email}})** is the course staff email and is for private logistical student support and DSP accommodations. This email monitored by both the instructor and a core set of staff to ensure fastest response. Please only contact the course instructor directly for matters that require strict privacy and/or their personal attention.
 
 ## Course Culture
 Students taking Data C101 come from a wide range of backgrounds. We hope to foster an inclusive and safe learning environment based on curiosity rather than competition. All members of the course community — the instructors, students, and course staff — are expected to treat each other with courtesy and respect. Some of the responsibility for that lies with the staff, but a lot of it ultimately rests with you, the students.
@@ -74,29 +73,63 @@ As course staff, we are committed to creating a learning environment welcoming o
 ### Misuse of Course Resources
 If individuals are disrespectful to students, course staff, or others via course resources, they will lose access to course resources. E.g., if someone is unkind in the course forum, their account will be removed from the course forum. If someone is unkind in the classroom, they will be asked to leave the classroom.
 
+## Course Format
+
+**Lecture**: There are two 80-minute lectures per week. You can attend in-person or online (see Ed post), or watch the recording. The class [schedule](/) will contain links to video recordings posted within 24 hours after the corresponding class.
+
+**Lecture check-ins**: Every lecture will have a short series of questions to help check your understanding of the material. You will have one week to complete each check-in; no late submissions will be accepted. Each check-in is worth 1 point and is graded on completeness of all questions.
+
+**Discussion**: This course also includes one weekly 50-minute discussion section held on Mondays. This section will help you synthesize materials via worksheets and activities and is good practice for the final exam. Handouts wil be posted on the class [Schedule](/). Section attendance is not required, but you are strongly encouraged to practice the material on your own time.
+
+**Projects**: There will be four (4) programming assignments released throughout the semester (see the [Schedule](/)). Generally, you will have about two weeks to complete each project. Projects are graded on accuracy and are equally weighted. Project deadlines are **Thursday 5pm**.
+
+**Multivitamins**: There will be five (5) multivitamins released on Gradescope throughout the semester. You will have about two weeks to complete short written assignments that consist of multiple choice questions covering material that is not covered in the projects. Multivitamins are graded on accuracy and are equally weighted. Multivitamin deadlines are **Thursday 5pm**.
+
+**Final Exam**: The final exam will be held on Friday, December 15th, from 8:00am - 11:00am. **The final exam is offered in-person only (location TBD), and we will not offer alternate exams.** It is your responsibility to ensure that you are not enrolled in another class that conflicts with our exam time.
+
+Office hours are a great place to get help from course staff and to find study partners for this course. You can find a list of all office hours on the [Calendar](calendar) page, of which there are three categories:
+* **Regular office hours**, held weekly in **Warren 101B**. Attend to get help with multivitamins, projects, or any other content-related questions. 
+* **Project Parties** are work sessions with extra staff support and are more sporadic. These are held in Warren 101B the Wednesday evening before a project deadline. Times TBD.
+* **Tea Hours** are a separate set of instructor hours for general course questions, data science advising, or perspectives on academia/industry. These are not intended for homework questions. Held in Soda 783 (instructor office). Feel free to bring tea/coffee and/or a reusable mug.
+
 ## Grading
-60% of your grade will come from projects, and 25% of your grade will come from multivitamins. Each project and multivitamin will be weighted equally. The final exam will be worth 15% of your grade.
+Letter grades for the course will be based on your overall score in the class, calculated using the following weights:
 
-### Final Exam
-Final exam will be held on Thursday, December 15th, from 11:30am - 2:30pm. **The final exam is offered in-person only (location TBD), and we will not offer alternate exams.** It is your responsibility to ensure that you are not enrolled in another class that conflicts with our exam time.
+| Component | Weight | Details |
+| ---- | --- | --- |
+| Lecture Check-Ins | 8% | Drop 3 lowest scores. |
+| Projects | 52% | No drops; see [Late Policy](#late-policy) |
+| Multivitamins | 25% | No drops; see [Late Policy](#late-policy) |
+| Final Exam | 15% |
 
-### Projects
-Throughout the semester, we will release 5 programming assignments via Ed and the website. The 5th project is optional for undergraduate students enrolled in Data 101 and required for graduate students enrolled in Info 258. For Data 101 students, the first four projects are each worth 15% of your grade, and the fifth project can replace your lowest project score. For Info 258, each of the five projects is worth 12% of your grade.
+Letter grades will be based on a combination of absolute cutoffs and the distribution of overall scores. Towards the end of the term, we will make three guarantees: "An overall score of at least x will result in a grade of at least C-; at least y will result in at least B-; at least z will result in at least A-." The thresholds x, y, and z will depend on this term’s performance.
 
-### Multivitamins
-Multivitamins are short written assignments designed to keep you on schedule and check your understanding of the basics from lecture. They will mostly consist of multiple choice questions covering material that is not covered in the projects. If you are struggling with any of the questions on the multivitamin, you are encouraged to come to office hours for help. We will have 5 multivitamins throughout the semester.
-
-## Office Hours
-Office hours are a great place to go for help with multivitamins, projects, or any other content-related questions. You can find a list of regular office hours under the Staff tab on this page. We may also host project parties throughout the semester ahead of project deadlines. The course calendar under the Calendar tab will always show the most up-to-date times and locations for office hours / project parties.
 
 ## Late Policy
-You will get 4 slip days for projects and 4 slip days for multivitamins. Note that these are separate, so you will not receive extra project slip days if you do not use all of your multivitamin slip days. Likewise, using a slip day for a project will not use up one of your multivitamin slip days. Slip days are automatically used in the manner that will optimize your score the most. After using all of your slip time for a particular assignment category, you’ll be docked 15% of your score for the assignment each extra late day on your submission. This applies to both projects and multivitamins. Note that submission times are rounded up to the next day. That is, 2 minutes late = 1 day late.
+Everyone has 9 slip days, which can be applied to late submissions of projects and multivitamins.
+
+* Each project or multivitamin can have a max of 3 slip days applied to it. These slip days will be automatically applied at the end of the semester to maximize your grade.
+* Slip days are rounded up to the next day. That is, 4 minutes late = 1 day late. We will use the submission time as displayed on Gradescope.
+* If you have no remaining slip days, there is a 15% reduction to your total score for every day that the assignment is late.
+  * After 3 late days, you can no longer receive credit for the submission.
+* Lecture check-ins are not eligible for slip days.
+
+### Extenuating Circumstances
+
+That being said, we recognize that life can be unexpected. If you encounter extenuating circumstances at any time in the semester, please don't hesitate to let us know. The sooner we are made aware, the more options we have available to us to help you.
+
+The [extenuating circumstances form]({{site.course.extenuating_circumstances}}) is for addressing any circumstances that cannot be resolved via the slip day policy above. This form is designed to lower the barrier to reaching out to us, as well as build your independence in managing your academic career long-term. Within one business day of filling out the form, a course staff will reach out to you and, as needed, provide a space for conversation and arrange course accommodations as necessary. When making extension requests, if possible:
+* Send requests before the assignment deadline
+* Send one extension request per assignment
+* If your extension request is granted, slip days cannot be applied to the extended deadline.
+
+You are responsible for reasonable communication with course staff. If you make a request close to the deadline, we can not guarantee that you will receive a response before the deadline. Additionally, simply submitting a request does not guarantee you will receive an extension. Even if your work is incomplete, please submit before the deadline so you can receive credit for the work you did complete.
+
+## DSP Accommodations
+If you are registered with the Disabled Students’ Program (DSP) you can expect to receive an email from us during the first week of classes. Otherwise, email our [course email]({{site.course.email}}). DSP students can submit assignment extension requests via the [Extenuating Circumstances Form]({{site.course.extenuating_circumstances}}).
 
 ## Collaboration Policy
-We do not allow for collaboration on assignments since we expect you to complete all assignments individually; however, you are free (and encouraged!) to discuss concepts from lecture. We will follow the [EECS departmental policy](https://eecs.berkeley.edu/resources/students/academic-dishonesty) on academic honesty, so be sure you are familiar with it. And hey — don’t cheat. Not cool.
-
-## Extensions
-For administrative and logistics issues, deadline extension requests, alternate exam requests, DSP accommodations, or special accommodations (for emergencies or personal issues), please make a private post on Ed. If you need an extension, please include your reason for requesting an extension and any relevant documentation if applicable. If you are a DSP student and your accommodation letter allows for extensions on assignments, you will be given 2 extra days per assignment deadline on top of your slip day allocation. If you require any extensions beyond that, please make a private post on Ed. For issues that you do not feel comfortable with posting on Ed, feel free to email the TAs or the instructor. However, we would recommend posting on Ed if possible to ensure a quicker response.
+We do not allow for collaboration on assignments since we expect you to complete all assignments individually. However, you are free (and encouraged!) to discuss concepts from lecture. We will follow the [EECS departmental policy](https://eecs.berkeley.edu/resources/students/academic-dishonesty) on academic honesty, so be sure you are familiar with it. And hey — don’t cheat. Not cool.
 
 ## Academic and Wellness Resources
 

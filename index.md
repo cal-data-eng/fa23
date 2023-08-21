@@ -9,7 +9,7 @@ currWeekNumber: 1
 # {{site.title}}: {{site.description}}
 
 {: .mb-2 }
-UC Berkeley, {{site.semester}}
+UC Berkeley, {{site.course.semester}}
 {: .mb-0 .fs-6 .text-grey-dk-000 }
 
 [Ed]({{site.course.edstem}}){:target="\_blank" .btn .btn-ed .mr-1 }
@@ -26,17 +26,15 @@ UC Berkeley, {{site.semester}}
   </div>
 </div>
 
-{: .highlight }
+{% assign announcement = site.announcements | last %}
+{{ announcement }}
 
-> Welcome to Fall 2023! Course website under construction.
-
-<!--
-Welcome to [Week 1](#week-{{page.currWeekNumber}})
-!-->
 
 <a name="schedule"></a>
 
-## Schedule
+# Schedule
+
+[Jump to current week](#week-{{page.currWeekNumber}}){: .btn }
 
 {% for module in site.modules %}
 {{ module }}

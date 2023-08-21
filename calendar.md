@@ -11,7 +11,7 @@ description: Calendars with times for all course events.
 
 
 The below calendar shows times for lecture, discussion, office hours, and exams/extra review sessions.
-In-person office hours are in <span style="color:blue">**blue**</span>, click on each event to see which GSI and/or reader is running each office hour time. You should come to these with questions about anything – labs, homeworks, discussions, concepts, etc 
+In-person office hours are in <span style="color:blue">**blue**</span>, click on each event to see which GSI and/or reader is running each office hour time. You should come to these with questions about anything – projects, multivitamins, concepts, etc. See more on the [Office Hours components](#course-format) for the categories of office hours.
 
 **Note: All office hours (except Professor Yan's Tea Hours) will be held in-person in Warren Hall 101B.**
 

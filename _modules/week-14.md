@@ -1,13 +1,13 @@
 ---
 title: Week 14
-date: 2023-11-27
+date: 2023-11-20
 ---
 
-Tue 11/28
+Mon 11/20
+: **Discussion 12**{: .label .label-disc }OLAP, Visualizations
 
-: **Lecture 29**{: .label .label-lecture }Distributed Transactions
+Tue 11/21
+: **Lecture 26**{: .label .label-lecture }Guest Lecture TBD
 
-Thu 11/30
-
-: **Lecture 30**{: .label .label-lecture }Closing Thoughts
-
+Thu 11/23
+: Thanksgiving Day (no class)

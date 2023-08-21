@@ -1,5 +1,5 @@
 ---
-name: Lisa Yan
+name: Professor Lisa Yan
 role: Instructor
 email: yanlisa@berkeley.edu
 website:
