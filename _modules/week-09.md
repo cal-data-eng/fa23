@@ -15,4 +15,4 @@ Thu 10/19
 
 Fri 10/20
 : **MultiVitamin 4**{: .label .label-hw }Multivitamin 4 Release
-  : Due Thu 10/12, 5pm
+  : Due Thu 11/2, 5pm
