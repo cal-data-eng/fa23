@@ -127,8 +127,14 @@ You are responsible for reasonable communication with course staff. If you make 
 ## DSP Accommodations
 If you are registered with the Disabled Students’ Program (DSP) you can expect to receive an email from us during the first week of classes. Otherwise, email our [course email]({{site.course.email}}). DSP students can submit assignment extension requests via the [Extenuating Circumstances Form (link TBD)]({{site.course.extenuating_circumstances}}).
 
-## Collaboration Policy
-We do not allow for collaboration on assignments since we expect you to complete all assignments individually. However, you are free (and encouraged!) to discuss concepts from lecture. We will follow the [EECS departmental policy](https://eecs.berkeley.edu/resources/students/academic-dishonesty) on academic honesty, so be sure you are familiar with it. And hey — don’t cheat. Not cool.
+## Collaboration and Integrity
+You are encouraged to discuss practice problems and lecture content with your fellow students and with course staff. Arguing with friends about exercises is an excellent and time-honored way to learn. However, **you must write up all your own assignments and code by yourself**. Copying assignments from other sources is not only dishonest, it also doesn’t help anyone, least of all yourself. 
+
+We will follow the [EECS departmental policy](https://eecs.berkeley.edu/resources/students/academic-dishonesty){: target="\_blank"} on academic honesty, so be sure you are familiar with it.
+We will be running advanced plagiarism detection programs on all assignments.
+Posting solutions is also prohibited. If you find a solution online, please email a link to that solution tot he instructor.
+
+We are tough with dishonest students and we hope that we will not be put in that situation in this class. We expect that you will work with integrity and with respect for other members of the class, just as the course staff will work with integrity and with respect for you. If you need help, just reach out and ask us. You are not alone.
 
 ## Academic and Wellness Resources
 
