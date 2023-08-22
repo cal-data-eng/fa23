@@ -19,6 +19,12 @@ Aditya Parameswaran,
 and
 Lisa Yan.
 
+## Syllabus
+Academic Honesty policy and closing words adapted from [Data 140](https://prob140.org). Course Culture inspired and adapted with permission from 
+Grace O'Connell, the Asssociate Dean for Inclusive Excellence, and the [Fall 2023 CS 39 Syllabus](https://schasins.com/cs39-technology-society-power/) by Lisa Yan and Sarah Chasins
+~
+
+
 <a name = 'education'></a>
 ## Data Science Education
 
