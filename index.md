@@ -14,8 +14,9 @@ UC Berkeley, {{site.course.semester}}
 
 [Ed]({{site.course.edstem}}){:target="\_blank" .btn .btn-ed .mr-1 }
 [Datahub]({{site.course.datahub}}){:target="\_blank" .btn .btn-datahub .mr-1 }
-[Gradescope]({{site.course.gradescope}}){:target="\_blank" .btn .btn-gradescope .mr-1 }
+<!--[Gradescope]({{site.course.gradescope}}){:target="\_blank" .btn .btn-gradescope .mr-1 }
 [Extenuating Circumstances (TBD)]({{site.course.extenuating_circumstances}}){:target="\_blank .btn .btn-blue .mr-1}
+-->
 
 <div>
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
