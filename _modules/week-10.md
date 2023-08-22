@@ -15,4 +15,4 @@ Thu 10/26
 
 Fri 10/27
 : **Project 4**{: .label .label-proj }Mongo
-  : Checkpoint due Thu 11/9, 5pm; final due Thu 11/30, 5pm)
+  : Checkpoint due Thu 11/9, 5pm; final due Thu 11/30, 5pm

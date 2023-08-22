@@ -73,11 +73,11 @@ As course staff, we are committed to creating a learning environment welcoming o
 ### Misuse of Course Resources
 If individuals are disrespectful to students, course staff, or others via course resources, they will lose access to course resources. E.g., if someone is unkind in the course forum, their account will be removed from the course forum. If someone is unkind in the classroom, they will be asked to leave the classroom.
 
-## Course Format
+## Course Components
 
 **Lecture**: There are two 80-minute lectures per week. You can attend in-person or online (see Ed post), or watch the recording. The class [schedule](/) will contain links to video recordings posted within 24 hours after the corresponding class.
 
-**Lecture check-ins**: Every lecture will have a short series of questions to help check your understanding of the material. You will have one week to complete each check-in; no late submissions will be accepted. Each check-in is worth 1 point and is graded on completeness of all questions.
+**Lecture check-ins**: Every lecture will have a short series of questions to help check your understanding of the material. You will have one week to complete each check-in; no late submissions will be accepted. Each check-in is worth 1 point and is graded on completeness of at least one question (if synchronous) or all questions (if asynchronous).
 
 **Discussion**: This course also includes one weekly 50-minute discussion section held on Mondays. This section will help you synthesize materials via worksheets and activities and is good practice for the final exam. Handouts wil be posted on the class [Schedule](/). Section attendance is not required, but you are strongly encouraged to practice the material on your own time.
 
@@ -115,10 +115,9 @@ Everyone has 9 slip days, which can be applied to late submissions of projects a
 * Lecture check-ins are not eligible for slip days.
 
 ### Extenuating Circumstances
+We recognize that life can be unexpected. If you encounter extenuating circumstances at any time in the semester, please don't hesitate to let us know. The sooner we are made aware, the more options we have available to us to help you.
 
-That being said, we recognize that life can be unexpected. If you encounter extenuating circumstances at any time in the semester, please don't hesitate to let us know. The sooner we are made aware, the more options we have available to us to help you.
-
-The [extenuating circumstances form]({{site.course.extenuating_circumstances}}) is for addressing any circumstances that cannot be resolved via the slip day policy above. This form is designed to lower the barrier to reaching out to us, as well as build your independence in managing your academic career long-term. Within one business day of filling out the form, a course staff will reach out to you and, as needed, provide a space for conversation and arrange course accommodations as necessary. When making extension requests, if possible:
+The [Extenuating Circumstances form (link TBD)]({{site.course.extenuating_circumstances}}) is for addressing any circumstances that cannot be resolved via the slip day policy above. This form is designed to lower the barrier to reaching out to us, as well as build your independence in managing your academic career long-term. Within one business day of filling out the form, a course staff will reach out to you and, as needed, provide a space for conversation and arrange course accommodations as necessary. When making extension requests, if possible:
 * Send requests before the assignment deadline
 * Send one extension request per assignment
 * If your extension request is granted, slip days cannot be applied to the extended deadline.
@@ -126,7 +125,7 @@ The [extenuating circumstances form]({{site.course.extenuating_circumstances}}) 
 You are responsible for reasonable communication with course staff. If you make a request close to the deadline, we can not guarantee that you will receive a response before the deadline. Additionally, simply submitting a request does not guarantee you will receive an extension. Even if your work is incomplete, please submit before the deadline so you can receive credit for the work you did complete.
 
 ## DSP Accommodations
-If you are registered with the Disabled Students’ Program (DSP) you can expect to receive an email from us during the first week of classes. Otherwise, email our [course email]({{site.course.email}}). DSP students can submit assignment extension requests via the [Extenuating Circumstances Form]({{site.course.extenuating_circumstances}}).
+If you are registered with the Disabled Students’ Program (DSP) you can expect to receive an email from us during the first week of classes. Otherwise, email our [course email]({{site.course.email}}). DSP students can submit assignment extension requests via the [Extenuating Circumstances Form (link TBD)]({{site.course.extenuating_circumstances}}).
 
 ## Collaboration Policy
 We do not allow for collaboration on assignments since we expect you to complete all assignments individually. However, you are free (and encouraged!) to discuss concepts from lecture. We will follow the [EECS departmental policy](https://eecs.berkeley.edu/resources/students/academic-dishonesty) on academic honesty, so be sure you are familiar with it. And hey — don’t cheat. Not cool.
