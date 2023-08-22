@@ -102,7 +102,8 @@ Letter grades for the course will be based on your overall score in the class, c
 | Multivitamins | 25% | No drops; see [Late Policy](#late-policy) |
 | Final Exam | 15% |
 
-Letter grades will be based on a combination of absolute cutoffs and the distribution of overall scores. Towards the end of the term, we will make three guarantees: "An overall score of at least x will result in a grade of at least C-; at least y will result in at least B-; at least z will result in at least A-." The thresholds x, y, and z will depend on this term’s performance.
+<!--Letter grades will be based on a combination of absolute cutoffs and the distribution of overall scores. Towards the end of the term, we will make three guarantees: "An overall score of at least x will result in a grade of at least C-; at least y will result in at least B-; at least z will result in at least A-." The thresholds x, y, and z will depend on this term’s performance.
+-->
 
 
 ## Late Policy
