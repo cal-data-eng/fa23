@@ -80,6 +80,7 @@ If individuals are disrespectful to students, course staff, or others via course
 **Lecture check-ins**: Every lecture will have a short series of questions to help check your understanding of the material. You will have one week to complete each check-in; no late submissions will be accepted. Each check-in is worth 1 point and is graded on completeness as follows:
 * Synchronous (during lecture) complete at least one question.
 * Asynchronous (after lecture, within 1 week) complete all questions.
+In both cases, navigate to [slido.com](https://www.slido.com/)
 
 **Discussion**: This course also includes one weekly 50-minute discussion section held on Mondays. This section will help you synthesize materials via worksheets and activities and is good practice for the final exam. Handouts wil be posted on the class [Schedule](/). Section attendance is not required, but you are strongly encouraged to practice the material on your own time.
 
@@ -99,7 +100,7 @@ Letter grades for the course will be based on your overall score in the class, c
 
 | Component | Weight | Details |
 | ---- | --- | --- |
-| Lecture Check-Ins | 8% | Drop 3 lowest scores. |
+| Lecture Check-Ins | 8% | Drop 3 lowest scores. Skip Lecture 01. |
 | Projects | 52% | No drops; see [Late Policy](#late-policy) |
 | Multivitamins | 25% | No drops; see [Late Policy](#late-policy) |
 | Final Exam | 15% |
