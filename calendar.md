@@ -15,4 +15,6 @@ The below calendar shows times for lecture, discussion, office hours, and exams/
 
 **Note: All office hours (except Professor Yan's Tea Hours) will be held in-person in Warren Hall 101B.**
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&showTabs=1&showPrint=1&showCalendars=1&mode=WEEK&src=ZGF0YTEwMUBiZXJrZWxleS5lZHU&src=Y19jMjU1ODA2YWMzN2Q0ZmQwNjgxMWUwNWYyNWNhZGUwZmZlMDYyOThjZDZjYjIyODM0YzJkY2ZmZGJhNDM0ZDdiQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&color=%23039BE5&color=%23009688&color=%230B8043" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&showTitle=1&showCalendars=1&mode=WEEK&src=ZGF0YTEwMUBiZXJrZWxleS5lZHU&src=Y19jMjU1ODA2YWMzN2Q0ZmQwNjgxMWUwNWYyNWNhZGUwZmZlMDYyOThjZDZjYjIyODM0YzJkY2ZmZGJhNDM0ZDdiQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23F09300&color=%237CB342&color=%23795548" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+

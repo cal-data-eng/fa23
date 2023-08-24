@@ -77,7 +77,9 @@ If individuals are disrespectful to students, course staff, or others via course
 
 **Lecture**: There are two 80-minute lectures per week. You can attend in-person or online (see Ed post), or watch the recording. The class [schedule](/) will contain links to video recordings posted within 24 hours after the corresponding class.
 
-**Lecture check-ins**: Every lecture will have a short series of questions to help check your understanding of the material. You will have one week to complete each check-in; no late submissions will be accepted. Each check-in is worth 1 point and is graded on completeness of at least one question (if synchronous) or all questions (if asynchronous).
+**Lecture check-ins**: Every lecture will have a short series of questions to help check your understanding of the material. You will have one week to complete each check-in; no late submissions will be accepted. Each check-in is worth 1 point and is graded on completeness as follows:
+* Synchronous (during lecture) complete at least one question.
+* Asynchronous (after lecture, within 1 week) complete all questions.
 
 **Discussion**: This course also includes one weekly 50-minute discussion section held on Mondays. This section will help you synthesize materials via worksheets and activities and is good practice for the final exam. Handouts wil be posted on the class [Schedule](/). Section attendance is not required, but you are strongly encouraged to practice the material on your own time.
 
@@ -129,7 +131,17 @@ You are responsible for reasonable communication with course staff. If you make 
 If you are registered with the Disabled Students’ Program (DSP) you can expect to receive an email from us during the first week of classes. Otherwise, email our [course email]({{site.course.email}}). DSP students can submit assignment extension requests via the [Extenuating Circumstances Form (link TBD)]({{site.course.extenuating_circumstances}}).
 
 ## Collaboration and Integrity
-You are encouraged to discuss practice problems and lecture content with your fellow students and with course staff. Arguing with friends about exercises is an excellent and time-honored way to learn. However, **you must write up all your own assignments and code by yourself**. Copying assignments from other sources is not only dishonest, it also doesn’t help anyone, least of all yourself. 
+You are encouraged to discuss practice problems and lecture content with your fellow students and with course staff. Arguing with friends about exercises is an excellent and time-honored way to learn. However, **you must write up all your own assignments and code by yourself**. Copying assignments from other sources is not only dishonest, it also doesn’t help anyone, least of all yourself. We have important rules:
+
+1. All code you submit should be written by you alone.
+
+1. Do not possess or share code. Before submitting your final work, you should never be in possession of solution code that you did not write. Looking up solution code online is effectively possessing solution code. You will be equally culpable if you distribute code, now or in the future. If you find yourself struggling or really desperate, reach out to the staff and/or submit to Extenuating Circumstances.
+
+1. Cite your sources: 
+* **Study groups**: If you do discuss the assignments with others please include their names at the top of your notebook. Restated, you and your friends are encouraged to discuss course content and high-level approaches to problem-solving, but you are not allowed to share your code nor answers. You can work on a project alongside another person or group of people (e.g., study group), but it should not substantially resemble anyone else's.
+* StackOverflow, etc. You should cite these sources, even if it's using small snippets of code (e.g., googling "postgres string matching" may lead you to some sample code that you copy and paste. Include the link to these online sources.
+* **With extreme caution**: If you're just generating some amount of boilerplate code with GitHub Copilot / GPT3 / etc., that's OK. However, you should not use such tools to generate non-trivial methods. We are trying to build your engineering skills, and learning on an AI is going to cause you trouble in circumstances where you don't have an AI to help, such as exams or often-time industry. **Any AI-generated code must be cited (with the prompt and log) and explicitly indicatedt as such.** Violation of this citation rule is a serious act of plagiarism. Note that AI generated code, especially from sources like ChatGPT, is often subtly buggy or completely incorrect.
+
 
 We will follow the [EECS departmental policy](https://eecs.berkeley.edu/resources/students/academic-dishonesty){: target="\_blank"} on academic honesty, so be sure you are familiar with it.
 We will be running advanced plagiarism detection programs on all assignments.
