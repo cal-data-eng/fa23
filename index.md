@@ -3,7 +3,7 @@ layout: page
 title: Home / Schedule
 nav_order: 1
 description: A week-to-week description of the content covered in the course.
-currWeekNumber: 1
+currWeekNumber: 2
 ---
 
 # {{site.title}}: {{site.description}}
@@ -29,7 +29,9 @@ UC Berkeley, {{site.course.semester}}
 </div>
 
 {% assign announcement = site.announcements | last %}
-{{ announcement }}
+{% if announcement.week == page.currWeekNumber %}
+  {{ announcement }}
+{% endif %}
 
 
 <a name="schedule"></a>
