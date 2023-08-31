@@ -12,4 +12,4 @@ Tue 8/29
   : [code](https://data101.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcal-data-eng%2Ffa23-materials&urlpath=lab%2Ftree%2Ffa23-materials%2Flecture%2Flec02%2Flec02.ipynb&branch=main){: target="\_blank"}, [code HTML](../../resources/assets/lectures/lec02/lec02.html)
 
 Thu 8/31
-: **Lecture 3**{: .label .label-lecture }Relational Model & Algebra
+: **Lecture 3**{: .label .label-lecture } [Relational Model & Algebra](https://docs.google.com/presentation/d/1RJ-heAEjtQ2NefUp8CCCYANgduBAEL3xpnM5Dfnq5Q0/edit?usp=sharing){: target="\_blank"}
