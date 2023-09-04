@@ -114,7 +114,7 @@ If no database has been created, you can still connect to the server and list da
 psql postgresql://127.0.0.1:5432
 ``
 
-## Closing a database connection
+### Closing a database connection
 `\q`: This exits out of the `psql` program and also closes your current connections.
 
 `\c <databasename>`: This keeps your `psql` client open, closes your current database conection, and opens a connection to `<databasename>`.
