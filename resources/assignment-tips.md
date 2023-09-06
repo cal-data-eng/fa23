@@ -127,9 +127,9 @@ Postgres meta-commands doc: [list](https://www.postgresql.org/docs/15/app-psql.h
 |---|---|
 | `\l`|  Lists databases |
 | `\d` | Lists relations |
-| \d tablename			| List schema of the relation `tablename`. |
-| \q		| Quit psql |
-| \?		| Help | 
+| `\d tablename`			| List schema of the relation `tablename`. |
+| `\q`		| Quit psql |
+| `\?`		| Help | 
 
 **Making queries**: You can write queries in `psql`, too! To write queries that span multiple lines, simply use the newline key (i.e., `<Return>`). However, to execute a query in `psql`, you must use the **semicolon**. This is generally good style, anyway!
 
@@ -138,14 +138,15 @@ Postgres meta-commands doc: [list](https://www.postgresql.org/docs/15/app-psql.h
 ### Terminal commands
 
 Here are some Terminal shortcuts to help you better navigate `psql`:
+
 | Keys | Description |
 |---|---|
-| <ctrl>-c	| Cancel current operation |
-| <ctrl>-a | Jump to beginning of line |
-| <ctrl>-e | Jump to end of line |
-| <ctrl>-<left> | Jump to previous word |
-| <ctrl>-<right> | Jump to next word |
-| <space> | If currently exploring a query result, see more of the result. |
+| &lt;ctrl&gt;-c	| Cancel current operation |
+| &lt;ctrl&gt;-a | Jump to beginning of line |
+| &lt;ctrl&gt;-e | Jump to end of line |
+| &lt;ctrl&gt;-&lt;left&gt; | Jump to previous word |
+| &lt;ctrl&gt;-&lt;right&gt; | Jump to next word |
+| &lt;space&gt; | If currently exploring a query result, see more of the result. |
 | q | If currently exploring a query result, exit from the result. |
 
 
