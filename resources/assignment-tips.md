@@ -59,7 +59,7 @@ First, to enter shortcut mode/exit editing mode, press `Esc`. This will then ena
 
 Before getting started, read about line magic (``%``) and cell magic (``%%``) [here](https://www.tutorialspoint.com/jupyter/ipython_magic_commands.htm){: target="\_blank"}. These commands will be used extensively in this project and future projects to aid us in running SQL queries.
 
-To call SQL commands, we use the Python package `jupyql`. We strongly recommend you check out the `jupysql` [documentation](https://data101.datahub.berkeley.edu/hub/home){:target="\_blank"}. It has a lot of hidden gems!
+To call SQL commands, we use the Python package `jupyql`. We strongly recommend you check out the `jupysql` [documentation]({{page.jupysql_docs}}){:target="\_blank"}. It has a lot of hidden gems!
 
 To load jupysql, run:
 
