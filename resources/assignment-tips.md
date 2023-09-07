@@ -59,7 +59,7 @@ First, to enter shortcut mode/exit editing mode, press `Esc`. This will then ena
 
 Before getting started, read about line magic (``%``) and cell magic (``%%``) [here](https://www.tutorialspoint.com/jupyter/ipython_magic_commands.htm){: target="\_blank"}. These commands will be used extensively in this project and future projects to aid us in running SQL queries.
 
-To call SQL commands, we use the Python package `jupyql`. We strongly recommend you check out the `jupysql` [documentation](https://data101.datahub.berkeley.edu/hub/home){:target="\_blank"}. It has a lot of hidden gems!
+To call SQL commands, we use the Python package `jupyql`. We strongly recommend you check out the `jupysql` [documentation]({{page.jupysql_docs}}){:target="\_blank"}. It has a lot of hidden gems!
 
 To load jupysql, run:
 
@@ -127,9 +127,9 @@ Postgres meta-commands doc: [list](https://www.postgresql.org/docs/15/app-psql.h
 |---|---|
 | `\l`|  Lists databases |
 | `\d` | Lists relations |
-| \d tablename			| List schema of the relation `tablename`. |
-| \q		| Quit psql |
-| \?		| Help | 
+| `\d tablename`			| List schema of the relation `tablename`. |
+| `\q`		| Quit psql |
+| `\?`		| Help | 
 
 **Making queries**: You can write queries in `psql`, too! To write queries that span multiple lines, simply use the newline key (i.e., `<Return>`). However, to execute a query in `psql`, you must use the **semicolon**. This is generally good style, anyway!
 
@@ -138,14 +138,15 @@ Postgres meta-commands doc: [list](https://www.postgresql.org/docs/15/app-psql.h
 ### Terminal commands
 
 Here are some Terminal shortcuts to help you better navigate `psql`:
+
 | Keys | Description |
 |---|---|
-| <ctrl>-c	| Cancel current operation |
-| <ctrl>-a | Jump to beginning of line |
-| <ctrl>-e | Jump to end of line |
-| <ctrl>-<left> | Jump to previous word |
-| <ctrl>-<right> | Jump to next word |
-| <space> | If currently exploring a query result, see more of the result. |
+| &lt;ctrl&gt;-c	| Cancel current operation |
+| &lt;ctrl&gt;-a | Jump to beginning of line |
+| &lt;ctrl&gt;-e | Jump to end of line |
+| &lt;ctrl&gt;-&lt;left&gt; | Jump to previous word |
+| &lt;ctrl&gt;-&lt;right&gt; | Jump to next word |
+| &lt;space&gt; | If currently exploring a query result, see more of the result. |
 | q | If currently exploring a query result, exit from the result. |
 
 
@@ -177,7 +178,7 @@ Just relaunch your DataHub server. You can explicitly stop your entire DataHub s
 
 **Want to splitscreen your JupyterHub?** Simply drag a tab over to a different side of your JupyterHub. We recommend splitting your screen with your Jupyter notebook in one window, and a psql terminal in another window, like so (note these are two separate connections to the database!):
 
-<img src="{{site.baseurl}}resources/assets/images/splitscreen.png"
+<img src="./assets/images/splitscreen.png"
      alt="Split Screen of DataHub"
      style="float: center; margin-right: 10px; width: 800px" />
 
