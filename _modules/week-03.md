@@ -11,7 +11,8 @@ Tue 9/5
   : [code](https://data101.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcal-data-eng%2Ffa23-materials&urlpath=lab%2Ftree%2Ffa23-materials%2Flecture%2Flec04%2Flec04.ipynb&branch=main){: target="\_blank"}, [code HTML](../../resources/assets/lectures/lec04/lec04.html)
 
 Thu 9/7
-: **Lecture 5**{: .label .label-lecture }Window functions, Sampling, String manipulation
+: **Lecture 5**{: .label .label-lecture }[Window functions, Sampling, String manipulation](https://docs.google.com/presentation/d/1_923bxPMRdXorOpl6j7e0PpP-fWeI2HJb1_kFZngtHg/edit?usp=sharing){:target="\_blank"}
+  : [code](https://data101.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcal-data-eng%2Ffa23-materials&urlpath=lab%2Ftree%2Ffa23-materials%2Flecture%2Flec05%2Flec05.ipynb&branch=main){: target="\_blank"}, [code HTML](../../resources/assets/lectures/lec05/lec05.html)
 
 Fri 9/8
 : **Project 1**{: .label .label-proj }SQL
