@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Data 101 Assignment Tips
-nav_exclude: true
+title: Assignment Tips
+nav_exclude: false
+nav_order: 5
 description: >-
     PostgreSQL meta-commands and jupysql
 markdown: kramdown
@@ -12,7 +13,7 @@ jupysql_docs: "https://jupysql.ploomber.io/en/latest/"
 # {{page.title}}
 {:.no_toc}
 Author: Lisa Yan
-Last updated: August 27, 2023 (Fall 2023)
+Last updated: September 9, 2023 (Fall 2023)
 
 Jump to:
 * TOC
@@ -178,7 +179,7 @@ Just relaunch your DataHub server. You can explicitly stop your entire DataHub s
 
 **Want to splitscreen your JupyterHub?** Simply drag a tab over to a different side of your JupyterHub. We recommend splitting your screen with your Jupyter notebook in one window, and a psql terminal in another window, like so (note these are two separate connections to the database!):
 
-<img src="./assets/images/splitscreen.png"
+<img src="{{site.baseurl}}resources/assets/images/splitscreen.png"
      alt="Split Screen of DataHub"
      style="float: center; margin-right: 10px; width: 800px" />
 
