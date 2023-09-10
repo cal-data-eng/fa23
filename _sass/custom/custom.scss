@@ -157,6 +157,10 @@ a {
   @include btn-color($white, #9400D3);
 }
 
+.btn-bcourses {
+  @include btn-color($white, #44A7C4);
+}
+
 .btn-gradescope {
   @include btn-color($white, #228B22);
 }
