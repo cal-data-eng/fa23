@@ -90,7 +90,7 @@ In both cases, navigate to [slido.com](https://www.slido.com/)
 
 **Final Exam**: The final exam will be held on Friday, December 15th, from 8:00am - 11:00am. **The final exam is offered in-person only (location TBD), and we will not offer alternate exams.** It is your responsibility to ensure that you are not enrolled in another class that conflicts with our exam time.
 
-Office hours are a great place to get help from course staff and to find study partners for this course. You can find a list of all office hours on the [Calendar](calendar) page, of which there are three categories:
+Office hours are a great place to get help from course staff and to find study partners for this course. You can find a list of all office hours on the [Calendar]({{site.baseurl}}calendar) page, of which there are three categories:
 * **Regular office hours**, held weekly in **Warren 101B**. Attend to get help with multivitamins, projects, or any other content-related questions. 
 * **Project Parties** are work sessions with extra staff support and are more sporadic. These are held in Warren 101B the Wednesday evening before a project deadline. Times TBD.
 * **Tea Hours** are a separate set of instructor hours for general course questions, data science advising, or perspectives on academia/industry. These are not intended for homework questions. Held in Soda 783 (instructor office). Feel free to bring tea/coffee and/or a reusable mug.
