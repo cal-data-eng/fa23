@@ -7,7 +7,7 @@ Mon 9/25
 : **Discussion 4**{: .label .label-disc }Indexes, Query Optimization
 
 Tue 9/26
-: **Lecture 10**{: .label .label-lecture }Guest Lecture TBD
+: **Lecture 10**{: .label .label-lecture }\[Guest Lecture\] Amy Wang, Databricks
 
 Thu 9/28
 : **Lecture 11**{: .label .label-lecture }Data Models: Relations, Tensors, Dataframes
