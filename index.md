@@ -3,7 +3,7 @@ layout: page
 title: Home / Schedule
 nav_order: 1
 description: A week-to-week description of the content covered in the course.
-currWeekNumber: 02
+currWeekNumber: "04"
 ---
 
 # {{site.title}}: {{site.description}}
@@ -17,6 +17,7 @@ UC Berkeley, {{site.course.semester}}
 [Lecture Recordings]({{site.course.videos}}){:target="\_blank" .btn .btn-bcourses .mr-1 }
 [Gradescope]({{site.course.gradescope}}){:target="\_blank" .btn .btn-gradescope .mr-1 }
 [Extenuating Circumstances]({{site.course.extenuating_circumstances}}){:target="\_blank" .btn .btn-blue .mr-1}
+[Regrade requests]({{site.course.regrades}}){:target="\_blank" .btn .mr-1}
 
 <div>
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}

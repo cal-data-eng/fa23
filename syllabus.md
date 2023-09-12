@@ -121,7 +121,7 @@ Everyone has 9 slip days, which can be applied to late submissions of projects a
 ### Extenuating Circumstances
 We recognize that life can be unexpected. If you encounter extenuating circumstances at any time in the semester, please don't hesitate to let us know. The sooner we are made aware, the more options we have available to us to help you.
 
-The [Extenuating Circumstances form (link TBD)]({{site.course.extenuating_circumstances}}) is for addressing any circumstances that cannot be resolved via the slip day policy above. This form is designed to lower the barrier to reaching out to us, as well as build your independence in managing your academic career long-term. Within one business day of filling out the form, a course staff will reach out to you and, as needed, provide a space for conversation and arrange course accommodations as necessary. When making extension requests, if possible:
+The [Extenuating Circumstances form]({{site.course.extenuating_circumstances}}){:target="\_blank"} is for addressing any circumstances that cannot be resolved via the slip day policy above. This form is designed to lower the barrier to reaching out to us, as well as build your independence in managing your academic career long-term. Within one business day of filling out the form, a course staff will reach out to you and, as needed, provide a space for conversation and arrange course accommodations as necessary. When making extension requests, if possible:
 * Send requests before the assignment deadline
 * Send one extension request per assignment
 * If your extension request is granted, slip days cannot be applied to the extended deadline.
