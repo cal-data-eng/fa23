@@ -110,10 +110,15 @@ This connects to the `imdb_lecture` database, if it has been created:
 psql postgresql://127.0.0.1:5432/imdb_lecture
 ``
 
-If no database has been created, you can still connect to the server and list databases, etc., as follows:
-``
-psql postgresql://127.0.0.1:5432
-``
+If no database has been created:
+* You will likely get this error:
+`psql: error: connection to server at '127.0.0.1', port 5432 failed: FATAL:  database "imdb_lecture" does not exist"`
+* In this case, you can still connect to the server and list databases, etc., as follows:
+  ``
+  psql postgresql://127.0.0.1:5432
+  ``
+* However, you won't be able to see any relations, because this default connection cannot access what's in `imdb_lecture`.
+* To create the `imdb_lecture` database, see the corresponding Jupyter notebook and run the cells that contain commands such as `CREATE DATABASE`.
 
 ### Closing a database connection
 `\q`: This exits out of the `psql` program and also closes your current connections.
