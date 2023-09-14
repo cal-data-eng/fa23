@@ -8,7 +8,7 @@ Mon 9/4
 
 Tue 9/5
 : **Lecture 4**{: .label .label-lecture }[Subqueries, Aggregation](https://docs.google.com/presentation/d/1WFs6feRjUjC5mcrVeYFKOqqL23bpW2a9Vraoj8TaJl8/edit?usp=sharing){:target="\_blank"}
-  : [code](https://data101.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcal-data-eng%2Ffa23-materials&urlpath=lab%2Ftree%2Ffa23-materials%2Flecture%2Flec04%2Flec04.ipynb&branch=main){: target="\_blank"}, [code HTML](../../resources/assets/lectures/lec04/lec04.html)
+  : [code](https://data101.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcal-data-eng%2Ffa23-materials&urlpath=lab%2Ftree%2Ffa23-materials%2Flecture%2Flec04%2Flec04.ipynb&branch=main){: target="\_blank"}, [code HTML](../../resources/assets/lectures/lec04/lec04.html), [Notes](https://drive.google.com/file/d/1bqiD3WNLbAjQxsyLR5E4snpbKgthfk-D/view?usp=sharing){: target="\_blank"}
 
 Thu 9/7
 : **Lecture 5**{: .label .label-lecture }[Window functions, Sampling, String manipulation](https://docs.google.com/presentation/d/1_923bxPMRdXorOpl6j7e0PpP-fWeI2HJb1_kFZngtHg/edit?usp=sharing){:target="\_blank"}
