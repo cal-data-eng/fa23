@@ -16,5 +16,5 @@ Thu 9/14
   : [code](https://data101.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcal-data-eng%2Ffa23-materials&urlpath=lab%2Ftree%2Ffa23-materials%2Flecture%2Flec07%2Flec07.ipynb&branch=main){: target="\_blank"}, [code HTML](../../resources/assets/lectures/lec07/lec07.html)
 
 Fri 9/15
-: **MultiVitamin 1**{: .label .label-hw }Multivitamin 1
+: **MultiVitamin 1**{: .label .label-hw }[Multivitamin 1](https://www.gradescope.com/courses/576229/assignments/3344524){:target="\_blank"}
   : Due Thu 9/28, 5pm

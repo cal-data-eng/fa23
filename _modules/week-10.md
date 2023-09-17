@@ -10,7 +10,7 @@ Tue 10/24
 : **Lecture 18**{: .label .label-lecture }MongoDB I
 
 Thu 10/26
-: **Lecture 19**{: .label .label-lecture }Guest Lecture TBD
+: **Lecture 19**{: .label .label-lecture } \[Guest Lecture\] Rehan Durrani, Ponder
 : **Project 3**{: .label .label-proj-due } Due
 
 Fri 10/27
