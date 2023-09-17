@@ -4,7 +4,7 @@ date: 2023-09-18
 ---
 
 Mon 9/18
-: **Discussion 3**{: .label .label-disc }Window, DDL
+: **Discussion 3**{: .label .label-disc }[String Manipulation, DML, DDL and Windowing](https://drive.google.com/file/d/1uAEJ_D7lZjH8nmNTNm-wAZmmFClRH7Dv/view){:target="\_blank"}
 
 Tue 9/19
 : **Lecture 8**{: .label .label-lecture }Index selection, Query processing, Optimization I
@@ -16,4 +16,3 @@ Thu 9/21
 Fri 9/22
 : **Project 2**{: .label .label-proj }Query Performance
   : Due Thu 10/5, 5pm
-
