@@ -103,22 +103,26 @@ You may sometimes wnat to close the database connection, in case you want to del
 
 The `psql` program is the PostgreSQL client CLI, or Command-Line Interface. Knowing `psql` is very useful to understand what your database looks like, execute meta-commands, and explore quick queries.
 
+### Open a Terminal in DataHub
+
+To open a Terminal in DataHub, Navigate to Data101's DataHub, then go to File -> New -> Terminal. **Note**: Do not open a Terminal on your local machine; it does not know how to connect to DataHub's server, much less your DataHub's postgres server!
+
 ### Opening a database connection
 
-This connects to the `imdb_lecture` database, if it has been created:
+This connects to the `imdb` database, if it has been created:
 ``
-psql postgresql://127.0.0.1:5432/imdb_lecture
+psql postgresql://127.0.0.1:5432/imdb
 ``
 
 If no database has been created:
 * You will likely get this error:
-`psql: error: connection to server at '127.0.0.1', port 5432 failed: FATAL:  database "imdb_lecture" does not exist"`
+`psql: error: connection to server at '127.0.0.1', port 5432 failed: FATAL:  database "imdb" does not exist"`
 * In this case, you can still connect to the server and list databases, etc., as follows:
   ``
   psql postgresql://127.0.0.1:5432
   ``
-* However, you won't be able to see any relations, because this default connection cannot access what's in `imdb_lecture`.
-* To create the `imdb_lecture` database, see the corresponding Jupyter notebook and run the cells that contain commands such as `CREATE DATABASE`.
+* However, you won't be able to see any relations, because this default connection cannot access what's in `imdb`.
+* To create the `imdb` database, see the corresponding Jupyter notebook and run the cells that contain commands such as `CREATE DATABASE`. For Fall 2023, `imdb` is created in the Project 1 notebook.
 
 ### Closing a database connection
 `\q`: This exits out of the `psql` program and also closes your current connections.
