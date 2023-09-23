@@ -19,5 +19,6 @@ Thu 9/21
 : **Project 1**{: .label .label-proj-due } Due, 5pm
 
 Fri 9/22
-: **Project 2**{: .label .label-proj }Query Performance
+
+: **Project 2**{: .label .label-proj }[Query Performance](https://data101.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcal-data-eng%2Ffa23-materials&urlpath=lab%2Ftree%2Ffa23-materials%2Fproj%2Fproj2%2Fproj2.ipynb&branch=main){:target="\_blank"}
   : Due Thu 10/5, 5pm
