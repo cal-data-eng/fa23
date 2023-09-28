@@ -14,7 +14,7 @@ Tue 9/19
 
 Thu 9/21
 : **Lecture 9**{: .label .label-lecture }[Query processing, Optimization II](https://docs.google.com/presentation/d/1hlEXzTnSW8JjPhRjXDHwoBPIiw68o7vSoPUUv3RTLu8/edit?usp=sharing){:target="\_blank"}
-  : [code HTML](../../resources/assets/lectures/lec09/lec09.html)
+  : [Notes](https://drive.google.com/file/d/16ugF9Ggt7v2MVqjKLFrygmKZ4zd2pMrf/view?usp=sharing){: target="\_blank"}, [code HTML](../../resources/assets/lectures/lec09/lec09.html)
 
 : **Project 1**{: .label .label-proj-due } Due, 5pm
 
