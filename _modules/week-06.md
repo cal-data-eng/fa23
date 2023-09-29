@@ -8,7 +8,8 @@ Mon 9/25
   : [Solution](https://drive.google.com/file/d/1pWwh2JGbDyv1HF7tLHZOe2IYJS8ZWrUT/view?usp=drive_link){:target="\_blank"}
 
 Tue 9/26
-: **Lecture 10**{: .label .label-lecture }\[Guest Lecture\] Amy Wang, Databricks
+: **Lecture 10**{: .label .label-lecture }[\[Guest Lecture\] Amy Wang, Databricks](https://docs.google.com/presentation/d/1uC4HbEI2qAOyn60tl6v3mysyawCJkX_H1eHYUsNjjec/edit?usp=sharing){:target="\_blank"}
+  : [Q&A Responses](https://docs.google.com/spreadsheets/d/1qQCfn4ux0btZ_r-JozWbMMZeKhJTevSRq1z94zh1XnM/edit#gid=8779993){:target="_blank"}
 
 Thu 9/28
 : **Lecture 11**{: .label .label-lecture }[Data Models: Relations, Tensors, Dataframes](https://docs.google.com/presentation/d/1D5bIaZsb8ecd6LAWirlHhUUojZKytvL7T41Zwq6Hrg0/edit?usp=sharing){:target="\_blank"}
