@@ -18,5 +18,5 @@ Thu 9/28
 : **MultiVitamin 1**{: .label .label-hw-due } Due, 5pm
 
 Fri 9/29
-: **MultiVitamin 2**{: .label .label-hw }Multivitamin 2 Release
+: **MultiVitamin 2**{: .label .label-hw }[Multivitamin 2](https://www.gradescope.com/courses/576229/assignments/3444839){:target="\_blank"} Release
   : Due Thu 10/12, 5pm
