@@ -13,7 +13,7 @@ Tue 9/26
 
 Thu 9/28
 : **Lecture 11**{: .label .label-lecture }[Data Models: Relations, Tensors, Dataframes](https://docs.google.com/presentation/d/1D5bIaZsb8ecd6LAWirlHhUUojZKytvL7T41Zwq6Hrg0/edit?usp=sharing){:target="\_blank"}
-  : [code](https://data101.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcal-data-eng%2Ffa23-materials&urlpath=lab%2Ftree%2Ffa23-materials%2Flecture%2Flec11%2Flec11.ipynb&branch=main){: target="\_blank"}, [code HTML](../../resources/assets/lectures/lec11/lec11.html)
+  : [Notes](https://drive.google.com/file/d/1B-5gwmHbEKKd05XlHawmcljc1Lk7RqTr/view?usp=drive_link){:target="\_blank"},[code](https://data101.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcal-data-eng%2Ffa23-materials&urlpath=lab%2Ftree%2Ffa23-materials%2Flecture%2Flec11%2Flec11.ipynb&branch=main){: target="\_blank"}, [code HTML](../../resources/assets/lectures/lec11/lec11.html)
 
 : **MultiVitamin 1**{: .label .label-hw-due } Due, 5pm
 
