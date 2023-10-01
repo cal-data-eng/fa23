@@ -139,7 +139,7 @@ Postgres meta-commands doc: [list](https://www.postgresql.org/docs/15/app-psql.h
 | `\d` | Lists relations |
 | `\d tablename`			| List schema of the relation `tablename`. |
 | `\q`		| Quit psql |
-| `\?`		| Help | 
+| `\?`		| Help |
 
 **Making queries**: You can write queries in `psql`, too! To write queries that span multiple lines, simply use the newline key (i.e., `<Return>`). However, to execute a query in `psql`, you must use the **semicolon**. This is generally good style, anyway!
 
@@ -181,14 +181,38 @@ postgresql://jovyan@127.0.0.1:5432/imdb
 * `pg_toast`: TOAST storage schema [documentation 73.2](https://www.postgresql.org/docs/current/storage-toast.html)
 * `pg_catalog`: System catalog schema [documentation 5.9.5](https://www.postgresql.org/docs/current/ddl-schemas.html#DDL-SCHEMAS-CATALOG)
 
-## Debugging on DataHub
+## [New] Help! Why is my DataHub so slow?
 
-**Ruined your database?** 
-Just relaunch your DataHub server. You can explicitly stop your entire DataHub server, then relaunch all files: File -> Hub Control Panel -> Stop My Server. Then, refresh the page or navigate back to [https://data101.datahub.berkeley.edu](https://data101.datahub.berkeley.edu/){:target="\_blank"}.
+If you are encountering any of the following issues:
+
+* Your SQL queries are taking a long time to run
+* Your SQL queries fail with `No space left on device`
+* Your DataHub is slow or unresponsive
+
+Then, you may have run out of disk or memory space on your DataHub server. Here is a list of things you can do to fix this:
+
+1. Run [`VACUUM FULL`](https://www.postgresql.org/docs/current/sql-vacuum.html). This command will instruct PostgreSQL to try to reclaim some space. To do so, run `!psql postgresql://jovyan@127.0.0.1:5432/imdb -c 'VACUUM FULL'`
+
+2. Drop and re-create your database. To do so, run the database setup commands in the beginning of your project notebook that includes the `DROP DATABASE` and `CREATE DATABASE` commands.
+  * If you are unable to drop the database, it might be because you have other open connections to the database. Run the following command to terminate all other connections (replace `imdb` with your database name): `!psql postgresql://jovyan@127.0.0.1:5432/imdb -c 'SELECT pg_terminate_backend(pg_stat_activity.pid) FROM pg_stat_activity WHERE datname = current_database()  AND pid <> pg_backend_pid();'`
+
+4. Restart your Jupyter kernel. To do so, go to Kernel -> Restart Kernel. Then, refresh the page or navigate back to [https://data101.datahub.berkeley.edu](https://data101.datahub.berkeley.edu/){:target="\_blank"}.
+
+5. Restart your DataHub server. To do so, go to File -> Hub Control Panel -> Stop My Server. Then, refresh the page or navigate back to [https://data101.datahub.berkeley.edu](https://data101.datahub.berkeley.edu/){:target="\_blank"}.
+
+6. If none of the above work, please post on [Ed](https://edstem.org/us/courses/43068/discussion/){:target="\_blank"} with the following information:
+  * Your DataHub username
+  * The project you are working on
+  * The output of the following commands:
+    * `!df -h`
+    * `!free -h`
+    * `!psql -c 'SELECT pg_size_pretty(pg_database_size(current_database()))'`
+
+## Split-screen Setup
 
 **Want to splitscreen your JupyterHub?** Simply drag a tab over to a different side of your JupyterHub. We recommend splitting your screen with your Jupyter notebook in one window, and a psql terminal in another window, like so (note these are two separate connections to the database!):
 
-<img src="{{site.base_url}}resources/assets/images/splitscreen.png"
+<img src="/resources/assets/images/splitscreen.png"
      alt="Split Screen of DataHub"
      style="float: center; margin-right: 10px; width: 800px" />
 
