@@ -189,20 +189,33 @@ If you are encountering any of the following issues:
 * Your SQL queries fail with `No space left on device`
 * Your DataHub is slow or unresponsive
 
-Then, you may have run out of disk or memory space on your DataHub server. Here is a list of things you can do to fix this:
+Then, you may have *run out of disk or memory space* on your DataHub server. Here is a list of things you can do to fix this:
 
-1. Restart your Jupyter kernel. To do so, go to Kernel -> Restart Kernel and clear outputs of all cells. Then, refresh the page or navigate back to [https://data101.datahub.berkeley.edu](https://data101.datahub.berkeley.edu/){:target="\_blank"}.
+1. **Restart your current Jupyter kernel**. To do so, go to Kernel -> Restart Kernel and clear outputs of all cells. Then, refresh the page or navigate back to [https://data101.datahub.berkeley.edu](https://data101.datahub.berkeley.edu/){:target="\_blank"}.
 
-2. Run [`VACUUM FULL`](https://www.postgresql.org/docs/current/sql-vacuum.html). This command will instruct PostgreSQL to try to reclaim some space. To do so, run `!psql postgresql://jovyan@127.0.0.1:5432/imdb -c 'VACUUM FULL'`
+1. **Close all Jupyter kernels** other than the one that you are currently working on. To do so, go to the left sidebar and click on the stop button (dark circle with a light inscribed square). Go to Kernels, hover over each item, and hit the X button. Or, click "Shut Down All" with all notebooks still open, then manually start your kernel in the desired notebook.
+
+1. **Run [`VACUUM FULL`](https://www.postgresql.org/docs/current/sql-vacuum.html).** This command will instruct PostgreSQL to try to reclaim some space. To do so, run `!psql postgresql://jovyan@127.0.0.1:5432/imdb -c 'VACUUM FULL'`
   * If your notebook is already unresponsive, you can run this command in a terminal window instead. To do so, go to File -> New -> Terminal. Then, run type `psql postgresql://jovyan@127.0.0.1:5432/imdb -c 'VACUUM FULL'` (notice that we don't need to type `!` in the terminal).
 
-3. Drop and re-create your database. To do so, run the database setup commands in the beginning of your project notebook that includes the `DROP DATABASE` and `CREATE DATABASE` commands.
-  * If you are unable to drop the database, it might be because you have other open connections to the database. Run the following command to terminate all other connections (replace `imdb` with your database name): `!psql postgresql://jovyan@127.0.0.1:5432/imdb -c 'SELECT pg_terminate_backend(pg_stat_activity.pid) FROM pg_stat_activity WHERE datname = current_database()  AND pid <> pg_backend_pid();'`
-  * To find out what databases you currently have, and how big they are, run `psql postgresql://jovyan@127.0.0.1:5432/ -c '\l+'`
+1.  **Drop and re-create your database.** To do so, run the database setup commands in the beginning of your project notebook that includes the `DROP DATABASE` and `CREATE DATABASE` commands.
 
-4. Restart your DataHub server. To do so, go to File -> Hub Control Panel -> Stop My Server. Then, refresh the page or navigate back to [https://data101.datahub.berkeley.edu](https://data101.datahub.berkeley.edu/){:target="\_blank"}.
+    To find out the **size of all current databases**, run
 
-5. If none of the above work, please post on [Ed](https://edstem.org/us/courses/43068/discussion/){:target="\_blank"} with the following information:
+      * In Jupyter notebook: `!psql postgresql://jovyan@127.0.0.1:5432/ -c '\l+'`
+      * In a Terminal outside of a psql session: `!psql postgresql://jovyan@127.0.0.1:5432/ -c '\l+'`
+      * In an active psql session: `\l+`
+
+    If you are unable to drop the database, it might be because you have other open connections to the database. Run the below to **terminate all other connections** (replace `imdb` with your database name):
+
+      * In Jupyter Notebook, make a new cell. Make sure you replace the syntax with the desired database (e.g., below it is `imdb`) `!psql postgresql://jovyan@127.0.0.1:5432/imdb -c 'SELECT pg_terminate_backend(pg_stat_activity.pid) FROM pg_stat_activity WHERE datname = current_database()  AND pid <> pg_backend_pid();'`
+      * In `psql`, run the following command. Make sure you are conneted to the target database first.
+        * To connect to `imdb` and delete all other `imdb` connections, use the meta-command `\c imdb`.
+        * Then, run `SELECT pg_terminate_backend(pg_stat_activity.pid) FROM pg_stat_activity WHERE datname = current_database()  AND pid <> pg_backend_pid();`
+
+1. **Restart your DataHub server.** To do so, go to File -> Hub Control Panel -> Stop My Server. Then, refresh the page or navigate back to [https://data101.datahub.berkeley.edu](https://data101.datahub.berkeley.edu/){:target="\_blank"}.
+
+1. If none of the above work, please post on [Ed](https://edstem.org/us/courses/43068/discussion/){:target="\_blank"} with the following information:
   * Your DataHub username (your @berkeley.edu name)
   * The project you are working on
   * The output of the following commands:
