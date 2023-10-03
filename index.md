@@ -3,7 +3,7 @@ layout: page
 title: Home / Schedule
 nav_order: 1
 description: A week-to-week description of the content covered in the course.
-currWeekNumber: "05"
+currWeekNumber: "07"
 ---
 
 # {{site.title}}: {{site.description}}

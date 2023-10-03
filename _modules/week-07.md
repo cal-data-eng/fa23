@@ -8,7 +8,8 @@ Mon 10/2
   : [code](https://data101.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcal-data-eng%2Ffa23-materials.git&urlpath=lab%2Ftree%2Ffa23-materials.git%2Fdisc%2Fdisc05%2Fdisc05.ipynb&branch=main){:target="\_blank"}
 
 Tue 10/3
-: **Lecture 12**{: .label .label-lecture }Data Preparation I
+: **Lecture 12**{: .label .label-lecture }[Data Preparation I: Structural](https://docs.google.com/presentation/d/1LtRhc8adpAE-ekaDFhAyQmtkfuRrMpLAI5dSZBNieig/edit?usp=sharing){:target="\_blank"}
+  : [code](https://data101.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcal-data-eng%2Ffa23-materials&urlpath=lab%2Ftree%2Ffa23-materials%2Flecture%2Flec12%2Flec12.ipynb&branch=main){: target="\_blank"}, [code HTML](../../resources/assets/lectures/lec12/lec12.html)
 
 Thu 10/5
 : **Lecture 13**{: .label .label-lecture }Data Preparation II
