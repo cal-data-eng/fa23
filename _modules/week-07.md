@@ -5,7 +5,7 @@ date: 2023-10-02
 
 Mon 10/2
 : **Discussion 5**{: .label .label-disc }[PostgreSQL Exercises, Data Models](https://drive.google.com/file/d/13kf34OXc_6IZBDrliyXhM4YcVAejOTkr/view?usp=sharing){:target="\_blank"}
-  : [code](https://data101.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcal-data-eng%2Ffa23-materials.git&urlpath=lab%2Ftree%2Ffa23-materials.git%2Fdisc%2Fdisc05%2Fdisc05.ipynb&branch=main){:target="\_blank"}
+  : [Solution](https://drive.google.com/file/d/1KPzKhfanYrxAmcXFLr1L_tXxLv2T9ViK/view?usp=drive_link){:target="\_blank"}, [code](https://data101.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcal-data-eng%2Ffa23-materials.git&urlpath=lab%2Ftree%2Ffa23-materials.git%2Fdisc%2Fdisc05%2Fdisc05.ipynb&branch=main){:target="\_blank"}
 
 Tue 10/3
 : **Lecture 12**{: .label .label-lecture }[Data Preparation I: Structural](https://docs.google.com/presentation/d/1LtRhc8adpAE-ekaDFhAyQmtkfuRrMpLAI5dSZBNieig/edit?usp=sharing){:target="\_blank"}
