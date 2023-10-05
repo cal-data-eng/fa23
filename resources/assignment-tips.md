@@ -193,6 +193,8 @@ Then, you may have *run out of disk or memory space* on your DataHub server. Her
 
 1. **Restart your current Jupyter kernel**. To do so, go to Kernel -> Restart Kernel and clear outputs of all cells. Then, refresh the page or navigate back to [https://data101.datahub.berkeley.edu](https://data101.datahub.berkeley.edu/){:target="\_blank"}.
 
+1. **Check your display limits**. If your row display limit is unbounded, then your notebook will crash. Clear all cell output and insert a cell close to the top of the notebook that sets the display limit to a more reasonable size, like `%config SqlMagic.displaylimit = 50`
+
 1. **Close all Jupyter kernels** other than the one that you are currently working on. To do so, go to the left sidebar and click on the stop button (dark circle with a light inscribed square). Go to Kernels, hover over each item, and hit the X button. Or, click "Shut Down All" with all notebooks still open, then manually start your kernel in the desired notebook.
 
 1. **Run [`VACUUM FULL`](https://www.postgresql.org/docs/current/sql-vacuum.html).** This command will instruct PostgreSQL to try to reclaim some space. To do so, run `!psql postgresql://jovyan@127.0.0.1:5432/imdb -c 'VACUUM FULL'`
