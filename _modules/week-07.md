@@ -18,5 +18,5 @@ Thu 10/5
 : **Project 2**{: .label .label-proj-due }Due, 5pm
 
 Fri 10/6
-: **MultiVitamin 3**{: .label .label-hw }Multivitamin 3 Release
+: **MultiVitamin 3**{: .label .label-hw }[Multivitamin 3](https://www.gradescope.com/courses/576229/assignments/3486956){:target="\_blank"} Release
   : Due Thu 10/19, 5pm
