@@ -4,7 +4,7 @@ date: 2023-10-09
 ---
 
 Mon 10/9
-: **Discussion 6**{: .label .label-disc }Data Models
+: **Discussion 6**{: .label .label-disc }[Data Preparation, Pivoting, and MDL](https://drive.google.com/file/d/1mVALlxeV97LJiNwKbBhvniZeUROc8X4k/view?usp=sharing){:target="\_blank"}
 
 Tue 10/10
 : **Lecture 14**{: .label .label-lecture }Data Cleaning I
