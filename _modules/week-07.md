@@ -12,7 +12,7 @@ Tue 10/3
   : [Notes](https://drive.google.com/file/d/1SKZzPuxb-ONTA-7nnNoErgVWQKWS3Dsb/view?usp=sharing){:target="\_blank"}, [code](https://data101.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcal-data-eng%2Ffa23-materials&urlpath=lab%2Ftree%2Ffa23-materials%2Flecture%2Flec12%2Flec12.ipynb&branch=main){: target="\_blank"}, [code HTML](../../resources/assets/lectures/lec12/lec12.html)
 
 Thu 10/5
-: **Lecture 12**{: .label .label-lecture }[Data Preparation II: Numerical, Granularity](https://docs.google.com/presentation/d/19Nsksm89k8NBap9rwINJJFJeZCDSmF-feM6o0mz868c/edit?usp=sharing){:target="\_blank"}
+: **Lecture 13**{: .label .label-lecture }[Data Preparation II: Numerical, Granularity](https://docs.google.com/presentation/d/19Nsksm89k8NBap9rwINJJFJeZCDSmF-feM6o0mz868c/edit?usp=sharing){:target="\_blank"}
   : [Notes](https://drive.google.com/file/d/1Q-WxPzRVfMj83HjSfxlYC4qDV22TgNVc/view?usp=drive_link){:target="\_blank"}, [code](https://data101.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcal-data-eng%2Ffa23-materials&urlpath=lab%2Ftree%2Ffa23-materials%2Flecture%2Flec13%2Flec13.ipynb&branch=main){: target="\_blank"}, [code HTML](../../resources/assets/lectures/lec13/lec13.html)
 
 : **Project 2**{: .label .label-proj-due }Due, 5pm
