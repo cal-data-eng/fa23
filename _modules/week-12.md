@@ -10,5 +10,5 @@ Tue 11/7
 : **Lecture 22**{: .label .label-lecture }Parallel and Distributed Computing
 
 Thu 11/9
-: **Lecture 23**{: .label .label-lecture }Guest Lecture TBD
+: **Lecture 23**{: .label .label-lecture } Data Pipelines
 : **Project 4**{: .label .label-proj-due } Checkpoint due, 5pm

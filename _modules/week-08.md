@@ -8,10 +8,11 @@ Mon 10/9
   : [Solution](https://drive.google.com/file/d/1RJE2jm9yzQah_Cnt9gbhSs2TfPVTNV2O/view?usp=drive_link){:target="\_blank"}, [code](https://data101.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcal-data-eng%2Ffa23-materials&urlpath=lab%2Ftree%2Ffa23-materials%2Fdisc%2Fdisc06%2Fdisc06.ipynb&branch=main){:target="\_blank"}
 
 Tue 10/10
-: **Lecture 14**{: .label .label-lecture }Data Cleaning I
+: **Lecture 14**{: .label .label-lecture }[Data Preparation III: Entity Resolution](https://docs.google.com/presentation/d/1vG53ZkZfwWm2Bz2QFCHcyB5ySuUod5ESYgRKz0qXqjk/edit?usp=sharing){:target="\_blank"}
+  : [code](https://data101.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcal-data-eng%2Ffa23-materials&urlpath=lab%2Ftree%2Ffa23-materials%2Flecture%2Flec14%2Flec14.ipynb&branch=main){: target="\_blank"}, [code HTML](../../resources/assets/lectures/lec14/lec14.html)
 
 Thu 10/12
-: **Lecture 15**{: .label .label-lecture }Data Cleaning II
+: **Lecture 15**{: .label .label-lecture }Data Preparation IV
 : **MultiVitamin 2**{: .label .label-hw-due } Due, 5pm
 
 Fri 10/13
