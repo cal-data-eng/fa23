@@ -12,7 +12,8 @@ Tue 10/10
   : [code](https://data101.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcal-data-eng%2Ffa23-materials&urlpath=lab%2Ftree%2Ffa23-materials%2Flecture%2Flec14%2Flec14.ipynb&branch=main){: target="\_blank"}, [code HTML](../../resources/assets/lectures/lec14/lec14.html)
 
 Thu 10/12
-: **Lecture 15**{: .label .label-lecture }Data Preparation IV: Entity Resolution
+: **Lecture 15**{: .label .label-lecture }[Data Preparation IV: Imputation and Entity Resolution](https://docs.google.com/presentation/d/1fvMDOnF7_syMyicmilZDJLlmQsXpC4f2WnhWjkqx0sg/edit?usp=sharing){:target="\_blank"}
+  : [code](https://data101.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcal-data-eng%2Ffa23-materials&urlpath=lab%2Ftree%2Ffa23-materials%2Flecture%2Flec15%2Flec15.ipynb&branch=main){: target="\_blank"}, [code HTML](../../resources/assets/lectures/lec15/lec15.html)
 : **MultiVitamin 2**{: .label .label-hw-due } Due, 5pm
 
 Fri 10/13
