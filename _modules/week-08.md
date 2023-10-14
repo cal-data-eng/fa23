@@ -17,5 +17,5 @@ Thu 10/12
 : **MultiVitamin 2**{: .label .label-hw-due } Due, 5pm
 
 Fri 10/13
-: **Project 3**{: .label .label-proj }Data Transformation
+: **Project 3**{: .label .label-proj }[Data Transformation](https://data101.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcal-data-eng%2Ffa23-materials&urlpath=lab%2Ftree%2Ffa23-materials%2Fproj%2Fproj3%2Fproj3.ipynb&branch=main){: target="\_blank"}
   : Due Thu 10/26, 5pm
