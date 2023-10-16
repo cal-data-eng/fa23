@@ -7,7 +7,7 @@ description: A listing of all the course staff members.
 
 # Staff
 
-Jump to: [Instructors](#inst), [Teaching Assistants](#tas), [Readers](#readers).
+Jump to: [Instructors](#inst), [Teaching Assistants](#tas), [Tutors/Readers](#tutors-readers).
 
 **Note:** Consult the [calendar](/calendar) for the most up-to-date office hours for each course staff.
 
@@ -53,7 +53,7 @@ Contact course staff via [Ed]({{ site.course.edstem }}) with any questions or co
 
 <a name = 'readers'></a>
 
-## Readers
+## Tutors / Readers
 
 <div class="role">
   {% assign readers = site.staffers | where: 'role', 'Reader' %}
