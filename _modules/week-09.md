@@ -8,7 +8,7 @@ Mon 10/16
   : [Solution](https://drive.google.com/file/d/1b4KWgkdahVHDmkA6OtAW44uvb7sy-0jN/view?usp=drive_link){:target="\_blank"}, [code](https://data101.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcal-data-eng%2Ffa23-materials&urlpath=lab%2Ftree%2Ffa23-materials%2Fdisc%2Fdisc07%2Fdisc07.ipynb&branch=main){:target="\_blank"}
 
 Tue 10/17
-: **Lecture 16**{: .label .label-lecture }Normalization + ER
+: **Lecture 16**{: .label .label-lecture }[ER Diagrams + Normalization](https://docs.google.com/presentation/d/1E50tqyDDlnNK0tyoKzuu4V4_X_wkeRYq4r9Wp_jkEmw/edit?usp=sharing){:target="\_blank"}
   : [Mid-semester Survey](https://forms.gle/6LFqgyd47Dj84TL4A){:target="\_blank"}
 
 Thu 10/19
