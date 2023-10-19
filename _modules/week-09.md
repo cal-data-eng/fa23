@@ -12,7 +12,7 @@ Tue 10/17
   : [Mid-semester Survey](https://forms.gle/6LFqgyd47Dj84TL4A){:target="\_blank"}
 
 Thu 10/19
-: **Lecture 17**{: .label .label-lecture }Semistructured Data: NoSQL, JSON, XML
+: **Lecture 17**{: .label .label-lecture }[Semistructured Data: NoSQL, JSON, XML](https://docs.google.com/presentation/d/15TRu0bk3YNbb9GErbcYFi70Ke74wRW7DIyZpIF31RVE/edit?usp=sharing){:target="\_blank"}
 : **MultiVitamin 3**{: .label .label-hw-due } Due, 5pm
 
 Fri 10/20
