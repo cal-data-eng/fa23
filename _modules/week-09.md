@@ -9,10 +9,11 @@ Mon 10/16
 
 Tue 10/17
 : **Lecture 16**{: .label .label-lecture }[ER Diagrams + Normalization](https://docs.google.com/presentation/d/1E50tqyDDlnNK0tyoKzuu4V4_X_wkeRYq4r9Wp_jkEmw/edit?usp=sharing){:target="\_blank"}
-  : [Mid-semester Survey](https://forms.gle/6LFqgyd47Dj84TL4A){:target="\_blank"}
+  : [Mid-semester Survey](https://forms.gle/6LFqgyd47Dj84TL4A){:target="\_blank"}, [Notes](https://drive.google.com/file/d/1UCXuRf6N-04mQNJ-fMlN9cNftXn8w2aJ/view?usp=share_link){:target="\_blank"}
 
 Thu 10/19
 : **Lecture 17**{: .label .label-lecture }[Semistructured Data: NoSQL, JSON, XML](https://docs.google.com/presentation/d/15TRu0bk3YNbb9GErbcYFi70Ke74wRW7DIyZpIF31RVE/edit?usp=sharing){:target="\_blank"}
+  : [Notes](https://drive.google.com/file/d/1TDOpvuFX7kQRG9L8UN8sd5SKrRCj9hMR/view?usp=share_link){:target="\_blank"}
 : **MultiVitamin 3**{: .label .label-hw-due } Due, 5pm
 
 Fri 10/20
