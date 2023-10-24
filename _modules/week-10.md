@@ -5,6 +5,7 @@ date: 2023-10-23
 
 Mon 10/23
 : **Discussion 8**{: .label .label-disc }[ERD, Normalization, and Semistructured Data](https://drive.google.com/file/d/13nkclT7Gzk6QM4NR9puYa8uuqTT0t1Ny/view?usp=share_link){:target="\_blank"}
+  : [Solution](https://drive.google.com/file/d/1VktOvQLeFaO-g018P5mwGCcyNDJ7l4C_/view?usp=drive_link){:target="\_blank"}
 
 Tue 10/24
 : **Lecture 18**{: .label .label-lecture }MongoDB I
