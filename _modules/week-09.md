@@ -17,5 +17,5 @@ Thu 10/19
 : **MultiVitamin 3**{: .label .label-hw-due } Due, 5pm
 
 Fri 10/20
-: **MultiVitamin 4**{: .label .label-hw }Multivitamin 4 Release
-  : Due Thu 11/2, 5pm
+: **MultiVitamin 4**{: .label .label-hw }[Multivitamin 4](https://www.gradescope.com/courses/576229/assignments/3560740){:target="\_blank"} Release
+  : Due <s>Thu 11/2</s> **Thu 11/9**, 5pm

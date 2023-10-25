@@ -13,8 +13,4 @@ Tue 10/24
 
 Thu 10/26
 : **Lecture 19**{: .label .label-lecture } \[Guest Lecture\] Rehan Durrani, Snowflake 
-: **Project 3**{: .label .label-proj-due } Due
-
-Fri 10/27
-: **Project 4**{: .label .label-proj }Mongo
-  : Checkpoint due Thu 11/9, 5pm; final due Thu 11/30, 5pm
+  : [Q&A Form](https://forms.gle/Fna94wfQqgzkFUrX9){:target="\_blank"}

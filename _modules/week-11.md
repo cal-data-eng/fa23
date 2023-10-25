@@ -11,8 +11,10 @@ Tue 10/31
 
 Thu 11/2
 : **Lecture 21**{: .label .label-lecture }SQL Modifications, Transactions, and Recovery
-: **MultiVitamin 4**{: .label .label-hw-due } Due, 5pm
+: **Project 3**{: .label .label-proj-due } Due
 
 Fri 11/3
 : **MultiVitamin 5**{: .label .label-hw }Multivitamin 5 Release
   : Due Thu 11/16, 5pm
+: **Project 4**{: .label .label-proj }Mongo
+  : Due Thu 11/30, 5pm

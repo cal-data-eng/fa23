@@ -11,4 +11,4 @@ Tue 11/7
 
 Thu 11/9
 : **Lecture 23**{: .label .label-lecture } Data Pipelines
-: **Project 4**{: .label .label-proj-due } Checkpoint due, 5pm
+: **MultiVitamin 4**{: .label .label-hw-due } Due, 5pm
