@@ -12,5 +12,5 @@ Tue 10/24
   : [code](https://data101.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcal-data-eng%2Ffa23-materials&urlpath=lab%2Ftree%2Ffa23-materials%2Flecture%2Flec18%2Flec18.ipynb&branch=main){: target="\_blank"}, [code HTML](../../resources/assets/lectures/lec18/lec18.html)
 
 Thu 10/26
-: **Lecture 19**{: .label .label-lecture } \[Guest Lecture\] Rehan Durrani, Snowflake 
+: **Lecture 19**{: .label .label-lecture } [\[Guest Lecture\] Rehan Durrani, Snowflake](https://docs.google.com/presentation/d/1qVRJjYMOThiXHwk3WuMOGjp_gZoVYnX0/edit?usp=sharing&ouid=101311570497847456248&rtpof=true&sd=true){:target="\_blank"}
   : [Q&A Form](https://forms.gle/Fna94wfQqgzkFUrX9){:target="\_blank"}
