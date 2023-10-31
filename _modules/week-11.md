@@ -4,7 +4,8 @@ date: 2023-10-30
 ---
 
 Mon 10/30
-: **Discussion 9**{: .label .label-disc }MongoDB
+: **Discussion 9**{: .label .label-disc }[MongoDB Operations; ERD Review](https://drive.google.com/file/d/1vij3BytST9tS-QICxfKLbHqCLka5RBcS/view?usp=drive_link){:target="\_blank"}
+  : [Solution](https://drive.google.com/file/d/1EXLsyKK54-b36NQ7Tov5WQ-rMdbtVgoB/view?usp=drive_link){:target="\_blank"}
 
 Tue 10/31
 : **Lecture 20**{: .label .label-lecture }[MongoDB II](https://docs.google.com/presentation/d/1zp6wYLRwvPsybmpIt8TLeZbFkOEvzP8fpNmxBzcS0pc/edit?usp=sharing){:target="\_blank"}
