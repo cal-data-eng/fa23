@@ -16,7 +16,7 @@ Thu 11/2
 : **Project 3**{: .label .label-proj-due } Due
 
 Fri 11/3
-: **MultiVitamin 5**{: .label .label-hw }Multivitamin 5 Release
+: **MultiVitamin 5**{: .label .label-hw }[Multivitamin 5](https://www.gradescope.com/courses/576229/assignments/3631117/grade){:target="\_blank"} Release
   : Due Thu 11/16, 5pm
-: **Project 4**{: .label .label-proj }Mongo
+: **Project 4**{: .label .label-proj }[Mongo](https://data101.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcal-data-eng%2Ffa23-materials&urlpath=lab%2Ftree%2Ffa23-materials%2Fproj%2Fproj4%2Fproj4.ipynb&branch=main){:target="\_blank"}
   : Due Thu 11/30, 5pm
