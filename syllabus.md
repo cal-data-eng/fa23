@@ -115,7 +115,7 @@ Everyone has 9 slip days, which can be applied to late submissions of projects a
 * Each project or multivitamin can have a max of 3 slip days applied to it. These slip days will be automatically applied at the end of the semester to maximize your grade.
 * Slip days are rounded up to the next day. That is, 4 minutes late = 1 day late. We will use the submission time as displayed on Gradescope.
 * If you have no remaining slip days, there is a 15% reduction to your total score for every day that the assignment is late.
-  * After 3 late days, you can no longer receive credit for the submission.
+  * [Updated 11/6 for clarity] After 3 slip days (i.e., late days), you can no longer receive credit for the submission.
 * Lecture check-ins are not eligible for slip days.
 
 ### Extenuating Circumstances
