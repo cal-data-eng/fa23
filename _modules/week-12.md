@@ -8,7 +8,7 @@ Mon 11/6
   : [Solution](https://drive.google.com/file/d/1H7l-qltLOwk5cdf7_BOwLopKgu3jN_59/view?usp=drive_link){:target="\_blank"}
 
 Tue 11/7
-: **Lecture 22**{: .label .label-lecture }Parallel and Distributed Computing
+: **Lecture 22**{: .label .label-lecture }[Transactions II, Parallel/Distributed Computing](https://docs.google.com/presentation/d/1ByLSYNqtw1uVychEq498Su_0MeqbULIwugWPNwsuAhI/edit?usp=sharing){:target="\_blank"}
 
 Thu 11/9
 : **Lecture 23**{: .label .label-lecture } Data Pipelines
