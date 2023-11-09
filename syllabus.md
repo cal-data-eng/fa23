@@ -124,7 +124,7 @@ We recognize that life can be unexpected. If you encounter extenuating circumsta
 The [Extenuating Circumstances form]({{site.course.extenuating_circumstances}}){:target="\_blank"} is for addressing any circumstances that cannot be resolved via the slip day policy above. This form is designed to lower the barrier to reaching out to us, as well as build your independence in managing your academic career long-term. Within one business day of filling out the form, a course staff will reach out to you and, as needed, provide a space for conversation and arrange course accommodations as necessary. When making extension requests, if possible:
 * Send requests before the assignment deadline
 * Send one extension request per assignment
-* If your extension request is granted, slip days cannot be applied to the extended deadline.
+* [update 11/9] If your extension request is granted, then the extension is to the original on-time deadline.
 
 You are responsible for reasonable communication with course staff. If you make a request close to the deadline, we can not guarantee that you will receive a response before the deadline. Additionally, simply submitting a request does not guarantee you will receive an extension. Even if your work is incomplete, please submit before the deadline so you can receive credit for the work you did complete.
 
