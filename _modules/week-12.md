@@ -9,7 +9,7 @@ Mon 11/6
 
 Tue 11/7
 : **Lecture 22**{: .label .label-lecture }[Transactions II, Parallel/Distributed Computing](https://docs.google.com/presentation/d/1ByLSYNqtw1uVychEq498Su_0MeqbULIwugWPNwsuAhI/edit?usp=sharing){:target="\_blank"}
-: [Notes](https://drive.google.com/file/d/1dXakAhwxj_l6ijvgaM9GlTU53bX6DLfO/view?usp=drive_link){:target="\_blank"}
+  : [Notes](https://drive.google.com/file/d/1dXakAhwxj_l6ijvgaM9GlTU53bX6DLfO/view?usp=drive_link){:target="\_blank"}
 
 Thu 11/9
 : **Lecture 23**{: .label .label-lecture } [MapReduce, Data Pipelines](https://docs.google.com/presentation/d/1yTX08cnIyS42aoN-ZF_YvTg9QNG5FhbRukfucGZrN9A/edit?usp=sharing){:target="\_blank"}
