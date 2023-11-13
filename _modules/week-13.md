@@ -4,7 +4,7 @@ date: 2023-11-13
 ---
 
 Mon 11/13
-: **Discussion 11**{: .label .label-disc }Parallelization
+: **Discussion 11**{: .label .label-disc }[Parallelization](https://drive.google.com/file/d/1sQig4qz6FTWh1xGpAWUmq9WJoxsJWIrC/view?usp=drive_link){:target="\_blank"}
 
 Tue 11/14
 : **Lecture 24**{: .label .label-lecture }OLAP + Visualizations
