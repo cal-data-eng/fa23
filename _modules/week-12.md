@@ -13,4 +13,5 @@ Tue 11/7
 
 Thu 11/9
 : **Lecture 23**{: .label .label-lecture } [MapReduce, Data Pipelines](https://docs.google.com/presentation/d/1yTX08cnIyS42aoN-ZF_YvTg9QNG5FhbRukfucGZrN9A/edit?usp=sharing){:target="\_blank"}
+  : [Notes](https://drive.google.com/file/d/1etSSa8hYeKJ9IgrRbbA3bDkUPiGBepiQ/view?usp=drive_link){:target="\_blank"}
 : **MultiVitamin 4**{: .label .label-hw-due } Due, 5pm
