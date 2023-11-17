@@ -243,3 +243,7 @@ While you are welcome to set up everything locally, when grading we will assume 
 * PostgreSQL server. For Mac, I use [Postgres.app](https://postgresapp.com/){: target=\_blank}.
 
 Either way, we recommend you always work on DataHub, as staff will not be able to debug/support local setup issues in Fall 2023.
+
+## MongoDB debugging
+
+To prevent bracket mismatches while creating your queries, it is recommended to turn on "Auto Close Brackets" via Settings in JupyterHub. Furthermore, since we are using Python dictionaries as our query filter, make sure to wrap all keys and values inside quotes.
