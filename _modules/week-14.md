@@ -8,7 +8,7 @@ Mon 11/20
   : [Solution](https://drive.google.com/file/d/1ef_5ZXmpPyhNRlNDS019VoRK3_b4QfXi/view?usp=drive_link){:target="\_blank"}
 
 Tue 11/21
-: **Lecture 26**{: .label .label-lecture } [Guest Lecture] Shane Knapp and Balaji Alwar, DataHub
+: **Lecture 26**{: .label .label-lecture } [[Guest Lecture] Shane Knapp and Balaji Alwar, DataHub](https://docs.google.com/presentation/d/12JEtNI5D8KE-X014tf4ltA11EChbojztn26PDGpGXUU/edit?usp=sharing){:target="\_blank"}
 
 Thu 11/23
 : Thanksgiving Day (no class)
