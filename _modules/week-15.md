@@ -4,7 +4,8 @@ date: 2023-11-27
 ---
 
 Mon 11/27
-: **Discussion 13**{: .label .label-disc }Sampling, Data Visualizations
+: **Discussion 13**{: .label .label-disc } Project 4 OH 
+<!-- Sampling, Data Visualizations -->
 
 Tue 11/28
 : **Lecture 27**{: .label .label-lecture } Spreadsheets
