@@ -8,7 +8,8 @@ Mon 11/27
 <!-- Sampling, Data Visualizations -->
 
 Tue 11/28
-: **Lecture 27**{: .label .label-lecture } Spreadsheets
+: **Lecture 27**{: .label .label-lecture }[Spreadsheets](https://docs.google.com/presentation/d/1N5Mr5HZxrwUMOlpU7CAmZTupBYRH3isIjOnvhBO_oNM/edit?usp=sharing){:target="\_blank"}
+  : [Drive](https://drive.google.com/drive/folders/1tg9T3gVFlH49DlK3ltO8CjLiBeRyLuc2?usp=drive_link){: target="\_blank"}
 
 Thu 11/30
 : **Lecture 28**{: .label .label-lecture } Security/Privacy, Closing Thoughts
