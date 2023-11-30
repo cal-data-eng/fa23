@@ -12,5 +12,5 @@ Tue 11/28
   : [Drive](https://drive.google.com/drive/folders/1tg9T3gVFlH49DlK3ltO8CjLiBeRyLuc2?usp=drive_link){: target="\_blank"}
 
 Thu 11/30
-: **Lecture 28**{: .label .label-lecture } Security/Privacy, Closing Thoughts
+: **Lecture 28**{: .label .label-lecture } [Security/Privacy, Closing Thoughts](https://docs.google.com/presentation/d/1Nb-G948Y_kIVpwjJivCMI8KPjPsWTcLsIZk8l7adc00/edit?usp=sharing){:target="\_blank"}
 : **Project 4**{: .label .label-proj-due } Final due, 5pm
