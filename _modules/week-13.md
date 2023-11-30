@@ -9,7 +9,8 @@ Mon 11/13
 
 Tue 11/14
 : **Lecture 24**{: .label .label-lecture }[BI, OLAP, and Summarization](https://docs.google.com/presentation/d/1ecc0eZ6ad_MuCzjMJJsQORXMp_VYlF6OOzPofUtO_OE/edit?usp=sharing){:target="\_blank"}
-
+  : [Notes](https://drive.google.com/file/d/1TEANlFZxkazGLZ2L_FUuKHiWpOT761SI/view?usp=drive_link){:target="\_blank"}
+  
 Thu 11/16
 : **Lecture 25**{: .label .label-lecture }[Sampling](https://docs.google.com/presentation/d/1Czps6B8bNYW8eaYV2_xtpl9Ft8uGDXk4FpwkcN7YLLA/edit?usp=sharing){:target="\_blank"}
   : [Notes](https://drive.google.com/file/d/1LuoYhvI0_BKFDVjzq8R7-84Sxse7K5-C/view?usp=drive_link){:target="\_blank"},
