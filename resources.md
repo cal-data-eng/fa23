@@ -38,6 +38,8 @@ See [**Assignment Tips**](/resources/assignment-tips/).
 
 There has been exactly one final exam for this course so far, and it was a compressed version due to the UAW 2865 ASE strike in Fall 2022. It will be shared closer to the end of the semester.
 
+**(updated 12/1/23)** Final Reference Sheet: [PDF](/resources/assets/exams/fa23/fa23_final_reference_sheet.pdf) Note that this is newly created as of Fall 2023 and will be provided with the paper exam; you should not need to print your own copy. Topics that are not on this reference sheet are still in scope for the final exam. Please post to Ed if you find typos. Thanks!
+
 The best way to get a sense for what is needed for our written exam is to attend discussion throughout the semester and work on discussion handouts.
 
 ## Wellness Resources
