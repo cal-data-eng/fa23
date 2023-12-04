@@ -3,6 +3,7 @@ layout: page
 title: Resources
 nav_order: 6
 description: Resources and past exams to aid you this semester.
+markdown: kramdown
 
 ---
 
@@ -39,6 +40,7 @@ See [**Assignment Tips**](/resources/assignment-tips/).
 There has been exactly one final exam for this course so far, and it was a compressed version due to the UAW 2865 ASE strike in Fall 2022. 
 
 **(updated 12/4/23)** 
+
 |Semester|Final|
 |---|---|
 |Fall 2022|[Exam](/resources/assets/exams/fa22/fa22_final.pdf) [(Solutions)](/resources/assets/exams/fa22/fa22_final_sol.pdf)|
