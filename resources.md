@@ -3,6 +3,7 @@ layout: page
 title: Resources
 nav_order: 6
 description: Resources and past exams to aid you this semester.
+markdown: kramdown
 
 ---
 
@@ -36,7 +37,13 @@ See [**Assignment Tips**](/resources/assignment-tips/).
 
 ## Exam Resources
 
-There has been exactly one final exam for this course so far, and it was a compressed version due to the UAW 2865 ASE strike in Fall 2022. It will be shared closer to the end of the semester.
+There has been exactly one final exam for this course so far, and it was a compressed version due to the UAW 2865 ASE strike in Fall 2022. 
+
+**(updated 12/4/23)** 
+
+|Semester|Final|
+|---|---|
+|Fall 2022|[Exam](/resources/assets/exams/fa22/fa22_final.pdf) [(Solutions)](/resources/assets/exams/fa22/fa22_final_sol.pdf)|
 
 Final Reference Sheet: [PDF](/resources/assets/exams/fa23/fa23_final_reference_sheet.pdf) Note that this is newly created as of Fall 2023 and will be provided with the paper exam; you should not need to print your own copy. Topics that are not on this reference sheet are still in scope for the final exam. Please post to Ed if you find typos. Thanks!
 * **(updated 12/12)** Fixed mongoDB `$group` syntax.
