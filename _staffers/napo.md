@@ -1,7 +1,7 @@
 ---
 name: Napoleon Vuong
 role: Teaching Assistant
-email: napo@berkeley.edu
+email: 
 website:
 photo: /resources/assets/staff_pics/Napoleon_Vuong.png
 pronouns: He/Him/His

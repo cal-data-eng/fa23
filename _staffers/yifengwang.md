@@ -1,7 +1,7 @@
 ---
 name: Ron Wang
 role: Teaching Assistant
-email: yifengwang@berkeley.edu
+email: 
 website: https://www.ronyw.com/
 photo: /resources/assets/staff_pics/Ron_Wang.png
 pronouns: He/Him/His

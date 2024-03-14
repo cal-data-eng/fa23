@@ -1,7 +1,7 @@
 ---
 name: Mackenzie Moffit
 role: Reader
-email: mackenzie.moffit@berkeley.edu
+email: 
 website:
 photo: /resources/assets/staff_pics/Mackenzie_Moffit.png
 pronouns: She/Her/Hers

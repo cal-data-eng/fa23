@@ -1,7 +1,7 @@
 ---
 name: Frank Sifei Luan
 role: Teaching Assistant
-email: lsf@berkeley.edu
+email: 
 website: https://franklsf.org/
 photo: /resources/assets/staff_pics/Frank_Luan.jpg
 pronouns: He/Him/His
