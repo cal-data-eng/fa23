@@ -1,7 +1,7 @@
 ---
 name: Yuto Nishida
 role: Reader
-email: yuto@berkeley.edu
+email: 
 website: https://yut.to
 photo: /resources/assets/staff_pics/Yuto_Nishida.png
 pronouns: He/Him/His

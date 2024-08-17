@@ -1,7 +1,7 @@
 ---
 name: Dana Benedicto
 role: Teaching Assistant
-email: dbenedicto@berkeley.edu
+email: 
 website:
 photo: /resources/assets/staff_pics/Dana_Benedicto.jpg
 pronouns: She/Her/Hers

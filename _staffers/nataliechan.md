@@ -1,7 +1,7 @@
 ---
 name: Natalie Chan
 role: Teaching Assistant
-email: nataliechan@berkeley.edu
+email: 
 website:
 photo: /resources/assets/staff_pics/Natalie_Chan.png
 pronouns: She/Her/Hers

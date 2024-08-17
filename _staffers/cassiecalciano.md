@@ -1,7 +1,7 @@
 ---
 name: Cassandra Calciano
 role: Reader
-email: cassiecalciano@berkeley.edu
+email: 
 website:
 photo: /resources/assets/staff_pics/Cassandra_Calciano.png
 pronouns: She/Her/Hers
