@@ -48,7 +48,7 @@ course:
 # External navigation links
 nav_external_links:
   - title: Course FAQ
-    url: https://data101.org/fa23faq
+    url: https://data101.org/faqs/fa23
     hide_icon: true
 
 footer: >-
