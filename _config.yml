@@ -27,15 +27,13 @@ search_enabled: true
 permalink: pretty
 
 course:
-    faq: https://data101.org/fa23faq
     datahub: http://data101.datahub.berkeley.edu/
     edstem: https://edstem.org/us/courses/43068/discussion/
-    faq: https://data101.org/fa23faq
+    faq: https://data101.org/faqs/fa23
     gradescope: https://www.gradescope.com/courses/576229
     extenuating_circumstances: https://docs.google.com/forms/d/e/1FAIpQLSfcGLfXOnsGD3OifO10vgvOdIkS9CfiF-j6fdwO1VV3pBO7Cg/viewform?usp=sf_link
     regrades: https://forms.gle/6ri2dYeqZoHLvFLXA
     semester: Fall 2023
-    faq: https://data101.org/fa23faq
     bcourses: "https://bcourses.berkeley.edu/courses/1528038"
     videos: "https://bcourses.berkeley.edu/courses/1528038/external_tools/78985"
     instructors: Lisa Yan
