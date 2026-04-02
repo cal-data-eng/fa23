@@ -6,6 +6,9 @@ description: A week-to-week description of the content covered in the course.
 currWeekNumber: "15"
 ---
 
+{: .warning }
+⚠️ This content is archived as of March 2026 and is retained exclusively for reference. [Find current offerings.](https://data101.org/)
+
 # {{site.title}}: {{site.description}}
 
 {: .mb-2 }

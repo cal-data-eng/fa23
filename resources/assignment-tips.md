@@ -10,6 +10,9 @@ official_docs: "https://www.postgresql.org/docs/current/index.html"
 jupysql_docs: "https://jupysql.ploomber.io/en/latest/"
 ---
 
+{: .warning }
+⚠️ This content is archived as of March 2026 and is retained exclusively for reference. [Find current offerings.](https://data101.org/)
+
 # {{page.title}}
 {:.no_toc}
 Author: Lisa Yan

@@ -4,8 +4,10 @@ title: Resources
 nav_order: 6
 description: Resources and past exams to aid you this semester.
 markdown: kramdown
-
 ---
+
+{: .warning }
+⚠️ This content is archived as of March 2026 and is retained exclusively for reference. [Find current offerings.](https://data101.org/)
 
 # Resources
 {:.no_toc}
